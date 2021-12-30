@@ -1,0 +1,107 @@
+<!doctype html><html lang=en-us>
+<head>
+<link rel=apple-touch-icon sizes=180x180 href=/images/apple-touch-icon.png>
+<link rel=icon type=image/png sizes=32x32 href=/images/favicon-32x32.png>
+<link rel=icon type=image/png sizes=16x16 href=/images/favicon-16x16.png>
+<link rel=manifest href=/images/site.webmanifest>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta name=description content="A summary of my experiences building and designing a custom keyboard.">
+<title>A Candid Keyboard | aron</title>
+<link rel=stylesheet href=/css/style.css>
+<link rel=stylesheet href=/css/fonts.css>
+<link rel=stylesheet href=/css/theme-override.css>
+<header>
+<nav>
+<ul>
+<li class=pull-left>
+<a href=/>aron</a>
+</li>
+<li class="pull-left current">
+<a href=/projects/>projects</a>
+</li>
+<li class=pull-left>
+<a href=/writing/>writing</a>
+</li>
+</ul>
+</nav>
+</header>
+</head>
+<body>
+<br>
+<div class=article-meta>
+<h1><span class=title>A Candid Keyboard</span></h1>
+<p class=terms>
+</p>
+</div>
+<div class=content-wrapper>
+<main>
+<meta name=robots content="noindex, nofollow, noarchive">
+<img id=keyboard src=/images/keyboard/keyboard.jpg>
+<p>Our world demands that a <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165331">significant portion of human uptime</a> be spent on a screen, whether it be for work, academia, or even leisure. Over the past year I&rsquo;ve taken an interest in optimizing my online efficiency to reduce the time I need to spend online. I reckoned with this by attempting to master the devices that are responsible for bridging the interactional gap between us and our computers: keyboards. Improving my <a href=https://en.wikipedia.org/wiki/Words_per_minute>typing speed</a> seemed like an obvious first step. After all, the faster that words can be translated from my mind to my screen, the faster I can finish essays, send emails, or script websites.</p>
+<p>Ultimately though, what started with a half-baked effort to improve my typing speed ended with me learning to solder, learning an electronics design software suite, building three fully-functional keyboards, and designing my own. The world of keyboards is surprisingly rich, with a large and devoted open-source community that was vital to me succeeding with absolutely no prior experience. There are plenty of praises to sing about customizing an ergonomic, sustainable keyboard of your own, but ultimately I merely want to share my experience and document my journey. Enjoy, and feel free to skip around the contents of this page. You can also find my code and files for my keyboards on <a href=https://github.com/aronfarber/candid-keyboard>Github</a>.</p>
+<h4 id=ergonomics-1>Ergonomics <sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup></h4>
+<p>As I researched more, it became abundantly clear that my excessive use of a non-ergonomic keyboard can be conducive to repetitive strain injury (RSI), a work-related injury of the human musculoskeletal system. RSI has been greatly exacerbated worldwide since the 1970s with the rise of keyboards. The <a href=https://en.wikipedia.org/wiki/Repetitive_strain_injury>Wikipedia article for RSI</a> even highlights keyboards as a primary cause for RSI with its choice of examples and pictures. To combat this, when choosing a keyboard design, I chose to make some drastic changes, outlined below:</p>
+<ul>
+<li>
+<p>34 keys: The deleterious repetitive motions associated with keyboard use can be mitigated by reducing the amount of movement required to type. With a 34-key design, the furthest my fingers ever have to move is one key&rsquo;s distance away from their home row positions. The removed keys are compensated for with layers and macro keys.</p>
+</li>
+<li>
+<p>Colemak-DH: The ever-ubiquitous <a href=https://en.wikipedia.org/wiki/QWERTY>QWERTY</a> has existed in the same form since it&rsquo;s conception for use with 19th century typewriters. <a href=https://en.wikipedia.org/wiki/Colemak>Colemak</a> is a modern and well-researched alternative which arranges the letters based on mathematical analysis of letter frequencies. This leads in the most common letters being placed on the home row, resulting in even fewer repetitive finger motions.</p>
+</li>
+</ul>
+<figure id=colemak>
+<img src=/images/keyboard/colemak.jpg alt=colemak>
+<figcaption>The letters layer of <a href=https://github.com/aronfarber/candid-keyboard/tree/main/layout>my custom keyboard layout</a>.</figcaption>
+</figure>
+<ul>
+<li>
+<p>Split: A traditional keyboard requires a small amount of space between both hands while typing, which is unnatural and can be uncomfortable. Being able to keep my hands at shoulder width feels less resistive, and I&rsquo;ve also noticed it helps with my back posture while sitting in an office chair. Having a keyboard split into two halves allows me to control the positioning of my hands at will, so I have infinite granularity when it comes to adjustment.</p>
+</li>
+<li>
+<p>Tenting: The default position of the human wrists is pretty much completely sideways (as they will naturally rest while standing up). However, most keyboards cause <a href=https://pubmed.ncbi.nlm.nih.gov/10443595/>ulnar pronation</a> by requiring the user to align their wrists such that their hands are facing down. Pronation causes unnecessary strain on the wrists, which can be deleterious over extended periods of time. Using a camera tripod, I can tent the keyboard at an angle to keep my wrists in more of a natural position.</p>
+</li>
+</ul>
+<img id=tenting src=/images/keyboard/tenting.jpg>
+<ul>
+<li>Column-staggered: The rectangular form factor of most keyboards leads to a row-staggered orientation of keys, but our fingers are not all the same length. I sought out a design which staggered the five columns of keys to fit the actual shape of human hands.</li>
+</ul>
+<figure id=comparison>
+<img src=/images/keyboard/comparison.jpg>
+<figcaption>My keyboard juxtaposed with the conventional keyboard I used prior.<br>Watch a typing test of the lower keyboard <a href=https://raw.githubusercontent.com/aronfarber/candid-keyboard/main/gallery/Thocktest.mp4>here</a>.</figcaption>
+</figure>
+<h4 id=building>Building</h4>
+<p>The first keyboard I built, without any experience soldering or working with bills of materials, was the <a href=https://github.com/davidphilipbarr/Sweep>Sweep</a>, an open-source project by <a href=https://github.com/davidphilipbarr>David Barr</a>. It met my desired criteria for a build, and <a href="https://www.youtube.com/watch?v=fBPu7AyDtkM">tutorials</a> were readily available online to compensate for my lack of experience. Keyboards, at least the ones that I chose to build, are surprisingly simple in nature; consisting of little more than the switches, keycaps, printed circuit boards (PCBs), and repurposed Arduino microcontrollers. The PCBs do most of the heavy lifting by detecting when each switch&rsquo;s circuit is closed and sending the appopriate signal to the microcontroller that a key has been pressed.</p>
+<p>The building process boils down to soldering the parts onto the PCBs and programming the microcontrollers to receive and process signals from the switches. Soldering small parts together requires more patience and a gentler touch than I normally have, but the promise of a fully functional device of my own was enough motivation to work meticulously. The initial build process took me about 3 hours. I then flashed an open-source firmware called <a href=https://qmk.fm/>QMK</a> to the microcontrollers, which can interpret my layout from a <a href=https://github.com/aronfarber/candid-keyboard/blob/main/layout/keymap.json>json file</a> to its corresponding letter, symbol, or function.</p>
+<h4 id=design>Design</h4>
+<p>After building a couple of Sweeps, I was inspired by a <a href="https://www.youtube.com/watch?v=JqpBKuEVinw">Youtube video</a> by <a href=https://www.youtube.com/channel/UC4NNPgQ9sOkBjw6GlkgCylg>Ben Vallack</a> to modify and customize the Sweep to make a design that felt more personal to me. To that end, I downloaded <a href=https://www.kicad.org/ title=KiCad>KiCad</a>, whch is a free and open source electronics editing suite.</p>
+<p>Using the <a href=https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20High>Sweep High</a> as a template, I removed the empty space on the PCB while rounding the corners to keep the board smooth and easy to hold. I also overlayed some song artwork from <a href=https://soundcloud.com/candid_oak>Candid Oak</a>, one of my favorite musicians, onto the silkscreen layer. What I made is <a href=https://github.com/benvallack/Ferris-Sweep-Tweaked>far from an original design</a>, but the prototype arrived looking even better than I had hoped for.</p>
+<img id=pcb src=/images/keyboard/pcb.jpg>
+<h4 id=takeaways>Takeaways</h4>
+<p>By far the hardest part of switching keyboards has been deviating from QWERTY. While my keyboards are already built and operational, I still have fifteen years worth of QWERTY muscle memory to unlearn. I&rsquo;ve been practicing on <a href=https://www.keybr.com/>keybr.com</a>, a website that provides typing tests and develops a learning progression based on AI recommendations. Since November 2021, I&rsquo;ve practiced on keybr for about twenty minutes a day, and have made substantial progress having gone from 11 WPM on my first test to averaging around 65 WPM today.</p>
+<figure id=keybr>
+<img src=/images/keyboard/keybr.jpg>
+<figcaption>Number of typing tests on the x-axis compared with my progression of WPM (green), typing mistakes (red) and number of letters (purple) on the y-axis.</figcaption>
+</figure>
+<p>The caveat? My speed on QWERTY was 100 WPM. Ironically, that means my initial goal &ndash; improving my WPM &ndash; is the only one I haven&rsquo;t yet hit. I&rsquo;ve actually gotten slower, despite using a more efficient keyboard layout. I see it as a worthy sacrifice; banking on my neuroplasticity to completely relearn the patterns necessary to type quickly.</p>
+<p>Overall, my typing experience has become more fun and more comfortable. Keeping my fingers in a natural position on the home row with minimal finger movement is satisfying. My wrists and fingers feel noticeably more comfortable than when I typed on a traditional keyboard. While I don&rsquo;t have RSI and had little intention to improve ergonomics through my optimizations initially, it has become one of the most fruitful benefits of the project.</p>
+<p>Going from having no experience working with electronics to being able to make my own design has been an immensely fulfilling experience. I&rsquo;ve now built multiple low-cost, functional keyboards designed for ergonomic optimization. I am hugely grateful to David Barr, <a href=https://github.com/pierrechevalier83/>Pierre Chevalier</a>, <a href=https://www.youtube.com/channel/UC_03MjxkaPudKdDhxODsy4g>Kyek</a>, Ben Vallack, and everyone else who has contributed to the development and maintenance of the open-source projects and tools that have allowed me and others to modernize our experiences with computers and learn new skills along the way.</p>
+<p>Now to learn <a href=https://zmk.dev/>ZMK</a> and build a fully wireless split-ergo keyboard fit with an onboard battery.</p>
+<section class=footnotes role=doc-endnotes>
+<hr>
+<ol>
+<li id=fn:1 role=doc-endnote>
+<p>This section contains wording that could be construed as medical advice, so it&rsquo;s worth noting that I am not a lisenced medical professional. Although I&rsquo;ve done ample personal research about ergonomics, the contents of this section should not be taken as inalienable fact.&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+<a href=/> >> Home</a>
+</main>
+</div>
+<footer>
+<script>(function(){var b,a;function c(e){var c=document.getElementsByTagName(e),b,d,a;for(b=0;b<c.length;b++)if(d=c[b],a=d.parentElement,a.childNodes.length===1){if(a.nodeName==='A')if(a=a.parentElement,a.childNodes.length!=1)continue;a.nodeName==='P'&&(a.style.textAlign='center')}}b=['img','embed','object'];for(a=0;a<b.length;a++)c(b[a])})()</script>
+<hr>
+<a href=/privacy/>Privacy Policy</a> | <a href=farber.a@northeastern.edu>farber.a@northeastern.edu</a>
+</footer>
+</body>
+</html>
