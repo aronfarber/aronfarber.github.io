@@ -4,9 +4,9 @@ description: "Aron's personal homepage"
 ---
 <img id="headshot" src="/images/headshot.jpg" width="250" height="250">
 
-## Aron Farber (he/him)
+## Hi, I'm Aron (he/him)
   
-Hi, thanks for visiting! I hail from the big apple, but I'm currently studying towards an undergraduate engineering degree at Northeastern. 
+Thanks for visiting! I hail from [the big apple](https://en.wikipedia.org/wiki/New_York_City), but I'm currently studying toward an undergraduate engineering degree at [Northeastern](https://en.wikipedia.org/wiki/Northeastern_University). 
 
 My plan with this website is to document some of my personal projects and professional philosophies. 
 
