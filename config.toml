@@ -1,0 +1,40 @@
+baseurl = "/"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+languageCode = "en-us"
+title = "aron"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+projects = "/projects/:slug/"
+writing = "/writing/:slug/"
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 1
+[[menu.main]]
+name = "Writing"
+url = "/writing/"
+weight = 2
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "Aron's personal homepage."
+footer = "[Privacy Policy](/privacy/) | [farber.a@northeastern.edu](farber.a@northeastern.edu)"
