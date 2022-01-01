@@ -7,7 +7,7 @@ description: "A technical paper I wrote for my materials science class."
 
 <img id="keyboard" src="/images/comm/keys.jpg">
 
-For my [materials class](https://catalog.northeastern.edu/search/?P=CIVE%202260), students were assigned the task of designing and conducting a semester-long lab experiment to test the mechanical properties of a material of our choosing. Due to my [newfound obsession with keyboards](/projects/a-candid-keyboard/), I decided to test thermoplastics, as they are commonly used in keyboard switches. Ultimately, it was a valuable first foray into engineering lab work. Beieng able to interface with genuine lab equipment and use real data to write a scientific paper was a fulfilling experience. In the end I received a good grade, and came out on the other side of the project with an impressive-looking technical report, so it seemed suitable for me to highlight that here.
+For my [materials class](https://catalog.northeastern.edu/search/?P=CIVE%202260), students were assigned the task of designing and conducting a semester-long lab experiment to test the mechanical properties of a material of our choosing. Due to my [newfound obsession with keyboards](/projects/a-candid-keyboard/), I decided to test thermoplastics, as they are commonly used in keyboard switches. Ultimately, it was a valuable first foray into engineering lab work. Being able to interface with genuine lab equipment and use real data to write a scientific paper was a fulfilling experience. In the end I received a good grade, and came out on the other side of the project with an impressive-looking technical report, so it seemed suitable for me to highlight that here.
 
 You may find my report in PDF form [here](/images/comm/CommProject_Final.pdf).
 
