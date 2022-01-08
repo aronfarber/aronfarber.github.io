@@ -1,5 +1,5 @@
 ---
-title: Cars vs. People in the United States
+title: Cars vs. People
 date: '2021'
 description: "Professing my love for public transportation and infrastructure as a means to achieve human-centric urban design."
 ---
