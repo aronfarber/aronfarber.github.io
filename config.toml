@@ -36,5 +36,5 @@ weight = 2
 
 [params]
 custom_css = ["css/theme-override.css"]
-description = "Aron's personal homepage."
-footer = "[Privacy Policy](/privacy/) | [farber.a@northeastern.edu](farber.a@northeastern.edu)"
+description = "aron online!"
+footer = "[Privacy Policy](/privacy/) | [Click here for a song recommendation](https://soundcloud.com/otrapic/flutter)"
