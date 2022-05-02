@@ -9,7 +9,7 @@ description: "A summary of my experiences building and designing a custom keyboa
 
 Our world demands that a [significant portion of human uptime](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165331) be spent on a screen, whether it be for work, academia, or even leisure. Over the past year I've taken an interest in optimizing my online efficiency to reduce the time I need to spend online. I reckoned with this by attempting to master the devices that are responsible for bridging the interactional gap between us and our computers: keyboards. Improving my [typing speed](https://en.wikipedia.org/wiki/Words_per_minute) seemed like an obvious first step. After all, the faster that words can be translated from my mind to my screen, the faster I can finish essays, send emails, or script websites.
 
-Ultimately though, what started with a half-baked effort to improve my typing speed ended with me learning to solder, learning an electronics design software suite, building three fully-functional keyboards, and designing my own. The world of keyboards is surprisingly rich, with a large and devoted open-source community that was vital to me succeeding with absolutely no prior experience. There are plenty of praises to sing about customizing an ergonomic, sustainable keyboard of your own, but ultimately I merely want to share my experience and document my journey. Enjoy, and feel free to skip around the contents of this page. You can also find my code and files for my keyboards on [Github](https://github.com/aronfarber/candid-keyboard).
+Ultimately though, what started with a half-baked effort to improve my typing speed ended with me learning to solder, learning an electronics design software suite, building three fully-functional keyboards, and designing my own. The world of keyboards is surprisingly rich, with a large and devoted open-source community that was vital to me succeeding with absolutely no prior experience. There are plenty of praises to sing about customizing an ergonomic, sustainable keyboard of your own, but ultimately I merely want to share my experience and document my journey. Enjoy, and feel free to skip around the contents of this page. You can also find my code and files for my keyboards on [Github](https://github.com/thegithubrespectorhasloggedon/candid-keyboard).
 
 #### Ergonomics [^1]
 
@@ -21,7 +21,7 @@ As I researched more, it became abundantly clear that my excessive use of a non-
 
 <figure id="colemak">
   <img src="/images/keyboard/colemak.jpg" alt="colemak">
-  <figcaption>The letters layer of <a href="https://github.com/aronfarber/candid-keyboard/tree/main/layout">my custom keyboard layout</a>.</figcaption>
+  <figcaption>The letters layer of <a href="https://github.com/thegithubrespectorhasloggedon/candid-keyboard/tree/main/layout">my custom keyboard layout</a>.</figcaption>
 </figure>
 
 - Split: A traditional keyboard requires a small amount of space between both hands while typing, which is unnatural and can be uncomfortable. Being able to keep my hands at shoulder width feels less resistive, and I've also noticed it helps with my back posture while sitting in an office chair. Having a keyboard split into two halves allows me to control the positioning of my hands at will, so I have infinite granularity when it comes to adjustment. 
