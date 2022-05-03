@@ -3,7 +3,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
-title = "aron"
+title = "aron online!"
 
 [markup.goldmark.renderer]
 unsafe = true
