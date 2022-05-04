@@ -2,6 +2,7 @@
 title: home
 description: "aron's homepage"
 ---
+<meta name="robots" content="noindex, nofollow, noarchive">
 
 ## aron online! (he/him)
 
