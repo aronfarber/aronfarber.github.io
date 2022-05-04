@@ -171,10 +171,6 @@ img, iframe, video, figure, figcaption {
   text-align: center;
 }
 
-li + li {
-  margin: 8px 0;
-}
-
 main {
   hyphens: none;
   max-width: 650px;
