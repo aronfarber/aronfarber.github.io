@@ -5,6 +5,8 @@ description: "professing my love for public transportation and infrastructure as
 ---
 <meta name="robots" content="noindex, nofollow, noarchive">
 
+originally written in december 2021
+
 rugged individualism is the frequently touted idea that in the united states, you succeed solely on your own merits, accepting no handouts. the philosophy has been steadily ingrained in the american psyche since the conception of the country, which was sold to immigrants as a place where social and economic mobility exists through hard work alone. most will be familiar with the concept by another glamorized term: the "american dream". 
 
 the american dream, and thus rugged individualism has always been inextricably linked in a conflict with infrastructure. settlers who first colonized the american frontier lived competitively and isolated, and destroyed the infrastructure of the continent's native inhabitants. herbert hoover popularized the terms during his presidency in the late 1920s, at the dawn of the worst period of economic downturn in the 20th century, when americans were largely left to fend for themselves from a poorly regulated banking system and lack of public spending. ironically, president hoover greatly worsened the depression by extensively [raising taxes and tariffs](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act) throughout his tenure.
