@@ -76,6 +76,7 @@ body {
 
 h1 {
   line-height: 1.5em;
+  text-transform: lowercase;
 }
 
 /* Table of Contents, if wanted
