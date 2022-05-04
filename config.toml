@@ -26,15 +26,15 @@ projects = "/projects/:slug/"
 writing = "/writing/:slug/"
 
 [[menu.main]]
-name = "Projects"
+name = "projects"
 url = "/projects/"
 weight = 1
 [[menu.main]]
-name = "Writing"
+name = "writing"
 url = "/writing/"
 weight = 2
 
 [params]
 custom_css = ["css/theme-override.css"]
 description = "aron online!"
-footer = "[Privacy Policy](/privacy/) | [Click here for a song recommendation](https://soundcloud.com/otrapic/flutter)"
+footer = "[privacy policy](/privacy/) | [song recommendation](https://soundcloud.com/innusta/semaphorism)"
