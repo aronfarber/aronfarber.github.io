@@ -171,8 +171,10 @@ img, iframe, video, figure, figcaption {
   text-align: center;
 }
 
-li + li {
-  margin-bottom: 8px 0;
+:not(.article-meta)>li + li {
+  margin: 8px 0;
+}
+  
 }
 
 main {
