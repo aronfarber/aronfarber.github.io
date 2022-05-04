@@ -171,8 +171,8 @@ img, iframe, video, figure, figcaption {
   text-align: center;
 }
 
-li {
-  line-height: 1.85em;   
+li + li {
+  margin: 10px 0;
 }
 
 main {
