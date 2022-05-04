@@ -1,9 +1,11 @@
 ---
 title: materials
 date: '2021'
-description: "a technical paper I wrote for my materials science class."
+description: "a technical paper i wrote for my materials science class."
 ---
 <meta name="robots" content="noindex, nofollow, noarchive">
+
+originally written in december 2021
 
 <img id="keyboard" src="/images/comm/keys.jpg">
 
