@@ -1,5 +1,5 @@
 ---
-title: candid keyboard
+title: keyboard
 date: '2021'
 description: "a summary of my experiences building and designing a custom keyboard."
 ---
