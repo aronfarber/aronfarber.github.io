@@ -71,11 +71,11 @@ body {
   max-width: 800px;
   margin: auto;
   padding: .2em;
-  line-height: 1.5em;
+  line-height: 2em;
 }
 
 h1 {
-  line-height: 1.5em;
+  line-height: 2em;
 }
 
 /* Table of Contents, if wanted
@@ -145,7 +145,7 @@ header nav {
 
 header a {
     color: #fff;
-    line-height: 1.75rem;
+    line-height: 2rem;
     padding: 0 0.5rem
 }
 header a:hover,
@@ -176,7 +176,7 @@ main {
   max-width: 650px;
   margin-left: auto;
   margin-right: auto;
-  line-height: 1.7em;
+  line-height: 2em;
   hyphens: none;
   display: block;
   font-size: 1.1em;
