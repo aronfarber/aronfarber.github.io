@@ -71,11 +71,11 @@ body {
   max-width: 800px;
   margin: auto;
   padding: .2em;
-  line-height: 2em;
+  line-height: 1.5em;
 }
 
 h1 {
-  line-height: 2em;
+  line-height: 1.5em;
 }
 
 /* Table of Contents, if wanted
@@ -145,7 +145,7 @@ header nav {
 
 header a {
     color: #fff;
-    line-height: 2rem;
+    line-height: 1.75em;
     padding: 0 0.5rem
 }
 header a:hover,
@@ -171,12 +171,16 @@ img, iframe, video, figure, figcaption {
   text-align: center;
 }
 
+li {
+  line-height: 1.85em;   
+}
+
 main {
   hyphens: none;
   max-width: 650px;
   margin-left: auto;
   margin-right: auto;
-  line-height: 2em;
+  line-height: 1.7em;
   hyphens: none;
   display: block;
   font-size: 1.1em;
