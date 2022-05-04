@@ -5,6 +5,8 @@ description: "a summary of my experiences building and designing a custom keyboa
 ---
 <meta name="robots" content="noindex, nofollow, noarchive">
 
+originally written in december 2021
+
 <img id="keyboard" src="/images/keyboard/keyboard.jpg">
 
 these days, a [significant portion of human uptime](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165331) is spent on a screen, whether it be for work, academia, or even leisure. over the past year i've taken an interest in optimizing my online efficiency to reduce the time i need to spend online. i reckoned with this by attempting to master the devices that are responsible for bridging the interactional gap between us and our computers: keyboards. improving my [typing speed](https://en.wikipedia.org/wiki/words_per_minute) seemed like an obvious first step. after all, the faster that words can be translated from my mind to my screen, the faster i can finish essays, send emails, or write posts on a website.
