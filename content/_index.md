@@ -15,6 +15,6 @@ a cursory glance:
 - music is probably my favorite singular thing about being alive. one day i'll make a post here about that.
 - my favorite website is [wikipedia](https://www.wikipedia.org/). i read and edit it on a daily basis. it isn't a reliable source of information not because of its crowdsourced nature, but because no source of information can be blanketly paraded as veritable.
 - i ride my bicycle everywhere i can. i don't have a drivers license and i hope to keep it that way. 
-- this website is typed entirely in lowercase because it's how i type in informal online settings such as chat rooms and text messages. the rigid conventions expected in academic and professional writing inhibits me from typing freely. rhetorically speaking, it's an attempt to foster a more candid atmosphere about the place.
+- this website is typed entirely in lowercase because it's how i type in informal online settings such as chat rooms and text messages. the rigid conventions of academic and professional writing inhibit me from typing freely. rhetorically speaking, it's an attempt to foster a more candid atmosphere about the place.
 
 ### content
