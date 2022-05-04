@@ -1,19 +1,17 @@
 ---
-title: Privacy Policy
+title: privacy
 ---
 
-## Privacy Policy
+## privacy
 
-In my opinion, everyone deserves the right to privacy in all facets of life. To reflect that, this website does not track, gather information about, or profile its users in any way. Feel free to browse this website without limits; your activity will be completely unmonitored. 
+privacy is a human right, and there's no place where that matters more than on the internet. to reflect that, this website does not track, gather information about, or profile its users in any way. feel free to browse this website without limits; your activity will be completely unmonitored. 
 
-Below is a list of invasive technologies you will **not** find on this website.
-- Tracking cookies
-- IP logging
-- Analytics
-- Third-party advertising
+below is a list of invasive technologies you will **not** find on this website.
+- tracking cookies
+- ip logging
+- analytics
+- advertising
 
-However, this website does contain links to other websites and with their own privacy policies. I cannot accept responsibility for the privacy policies of external websites, so be advised to click links to third-party websites at your own discretion. 
+however, this website does contain links to other websites and with their own privacy policies. i cannot accept responsibility for the privacy policies of external websites, so be advised to click links to third-party websites at your own discretion. 
 
-For example, I love [Wikipedia](https://www.wikipedia.org/). It's probably my favorite website on the entire internet and I will link to it frequently on this website. While Wikipedia does store personally identifiable information, they have an extensive and transparent [privacy policy](https://meta.wikimedia.org/wiki/Privacy_policy) that you may read if you so choose.
-
-aronfarber.com is a [static website](https://en.wikipedia.org/wiki/Static_web_page) built with [Hugo](https://en.wikipedia.org/wiki/Hugo_(software)) using the [hugo-classic](https://github.com/goodroot/hugo-classic) theme and hosted via [Github Pages](https://en.wikipedia.org/wiki/GitHub#GitHub_Pages). You may view the source code [here](https://github.com/aronfarber/aronfarber.github.io). If you find any ethically unsound behavior on this website, please don't hesitate to let me know at [farber.a@northeastern.edu](mailto:farber.a@northeastern.edu).
+aron.nyc is a [static website](https://en.wikipedia.org/wiki/Static_web_page) built with [hugo](https://en.wikipedia.org/wiki/Hugo_(software)) using the [hugo-classic](https://github.com/goodroot/hugo-classic) theme and hosted via [github pages](pages.github.com) (but one day i'll self-host it). you may view the source code [here](https://github.com/thegithubrespectorhasloggedon/thegithubrespectorhasloggedon.github.io). if you find any ethically unsound behavior on this website, please don't hesitate to let me know.
