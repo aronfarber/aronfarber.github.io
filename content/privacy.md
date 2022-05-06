@@ -2,9 +2,7 @@
 title: privacy
 ---
 
-## privacy
-
-privacy is a human right, and there's no place where that matters more than on the internet. to reflect that, this website does not track, gather information about, or profile its users in any way. feel free to browse this website without limits; your activity will be completely unmonitored. 
+privacy is a human right, whether it be in real life or on the internet. to reflect that, this website does not track, gather information about, or profile its users in any way. feel free to browse this website without limits; your activity will be completely unmonitored. 
 
 below is a list of invasive technologies you will **not** find on this website.
 - tracking cookies
