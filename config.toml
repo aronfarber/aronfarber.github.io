@@ -3,6 +3,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
+pluralizeListTitles = false
 title = "aron online!"
 
 [markup.goldmark.renderer]
@@ -18,7 +19,6 @@ lineNoStart = 1
 lineNos = false
 lineNumbersInTable = true
 noClasses = true
-pluralizeListTitles = false
 style = "monokai"
 tabWidth = 4
 
