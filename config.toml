@@ -25,6 +25,7 @@ tabWidth = 4
 [permalinks]
 projects = "/projects/:slug/"
 writing = "/writing/:slug/"
+culture = "/culture/:slug/"
 
 [[menu.main]]
 name = "projects"
@@ -34,8 +35,12 @@ weight = 1
 name = "writing"
 url = "/writing/"
 weight = 2
+[[menu.main]]
+name = "culture"
+url = "/culture/"
+weight = 3
 
 [params]
 custom_css = ["css/theme-override.css"]
 description = "aron online!"
-footer = "[privacy policy](/privacy/) | [song recommendation](https://soundcloud.com/innusta/semaphorism)"
+footer = "[privacy policy](/privacy/) | [song recommendation](https://soundcloud.com/sebastianvydra/nothingtofear)"
