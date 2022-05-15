@@ -7,7 +7,7 @@ description: "about me and this website!"
 
 me:
 - i'm 20 and i use he/him pronouns.
-- i'm currently an environmental engineering student at [northeastern]().
+- i'm currently an environmental engineering student at [northeastern](https://en.wikipedia.org/wiki/Northeastern_University).
 - the contents of this website could probably demonstrate more about me than i could succinctly summarize myself.
 
 this website:
