@@ -44,7 +44,7 @@ end date: march 22, 2021
 <h4 id="kafka"><a href="https://en.wikipedia.org/wiki/Kafka_on_the_Shore">kafka on the shore</a> by <a href="https://en.wikipedia.org/wiki/Haruki_Murakami">haruki murakami</a></h4>
 
 <img id="kafka" src="/images/reading/kafka.jpg" width="300" height="300" margin-left="20px">
-
+/
 kafka on the shore is something of a coming-of-age novel following two separate storylines: a child named kafka who is trying to escape an oedipus-esque curse, and an old man named nakata who is... kind of just living life after losing most of his mental faculties in an accident. the book is structured with chapters alternating between these two characters' perspectives. ultimately, kafka succumbs to the curse and nakata suddenly falls asleep and never wakes up.
 
 when i started reading this book i was enjoying myself. the introduction of so many unexplained mysteries seemed to be promising a complex story that would ultimately converge in a satisfying payoff. prosaically, it's a well-written book. for those first 20 or so chapters, this was a 7/10.
