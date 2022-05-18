@@ -13,4 +13,8 @@ i'm an engineering student at [northeastern](https://en.wikipedia.org/wiki/North
 
 thanks for visiting!
 
-### content
+things you may read here:
+- a few tidbits [about me and this website](/about).
+- information about [academic and personal projects](/projects) i've worked on.
+- some [creative writing pieces](/writing) about culture or other aspects of life.
+- a log of [media i've consumed](/consumption), including books i've read and my favorite music.
