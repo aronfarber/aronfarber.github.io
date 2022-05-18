@@ -35,7 +35,7 @@ end date: may 22, 2021
 start date: march 13, 2021<br>
 end date: march 22, 2021
 
-<a href="/"> >> home</a>
+<a href="/">&gt;&gt; home</a>
 
 <hr/>
 
@@ -59,4 +59,6 @@ this really emphasized to me how much murakami wrote these characters as an exte
 
 ultimately, kafka on the shore is well written and there's certainly a set of people who will find solace and immersion in the places murakami takes the reader. to me, the message was nonexistent, the plot was ultimately pretty boring, and i could tell i was not the target audience throughout the read. however, this book did maintain the illusion that it contained meaningful themes for surprisingly long, during which i found this book much more enjoyable.
 
-<a href="#log"> >> back to the reading log</a>
+rating: 4/10
+
+<a href="#log">&gt;&gt; back to the reading log</a>
