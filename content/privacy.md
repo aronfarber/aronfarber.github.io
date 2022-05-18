@@ -1,6 +1,7 @@
 ---
 title: privacy
 ---
+<meta name="robots" content="noindex, nofollow, noarchive">
 
 privacy is a human right, whether it be in real life or on the internet. to reflect that, this website does not track, gather information about, or profile its users in any way. feel free to browse this website without limits; your activity will be completely unmonitored. 
 
