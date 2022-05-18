@@ -9,7 +9,7 @@
 
  <ul>
      {{ $pages := .Pages }}
-     {{ if .IsHome }}{{ $pages = "" }}{{ end }}
+     {{ if .IsHome }}{{ $pages = (slice "" "") }}{{ end }}
      {{ range (where $pages "Section" "!=" "") }}
      <li>
      <!--   <span class="date">{{ .Date.Format "2006/01/02" }}</span> -->
