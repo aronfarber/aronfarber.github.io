@@ -35,17 +35,15 @@ end date: may 22, 2021
 start date: march 13, 2021<br>
 end date: march 22, 2021
 
-<a href="/aron.nyc">>> home</a>
+<a href="/"> >> home</a>
 
 <hr/>
 
 <h3 id="reviews">reviews</h3>
 
-<h4 id="kafka">kafka on the shore</h4>
+<h4 id="kafka"><a href="https://en.wikipedia.org/wiki/Kafka_on_the_Shore">kafka on the shore</a> by <a href="https://en.wikipedia.org/wiki/Haruki_Murakami">haruki murakami</a></h4>
 
 <img id="kafka" src="/images/reading/kafka.jpg" width="300" height="300" margin-left="20px">
-
-the following is a review of [kafka on the shore](https://en.wikipedia.org/wiki/Kafka_on_the_Shore) by [haruki murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 
 kafka on the shore is something of a coming-of-age novel following two separate storylines: a child named kafka who is trying to escape an oedipus-esque curse, and an old man named nakata who is... kind of just living life after losing most of his mental faculties in an accident. the book is structured with chapters alternating between these two characters' perspectives. ultimately, kafka succumbs to the curse and nakata suddenly falls asleep and never wakes up.
 
@@ -61,4 +59,4 @@ this really emphasized to me how much murakami wrote these characters as an exte
 
 ultimately, kafka on the shore is well written and there's certainly a set of people who will find solace and immersion in the places murakami takes the reader. to me, the message was nonexistent, the plot was ultimately pretty boring, and i could tell i was not the target audience throughout the read. however, this book did maintain the illusion that it contained meaningful themes for surprisingly long, during which i found this book much more enjoyable.
 
-<a href="#log">>> back to the reading log</a>
+<a href="#log"> >> back to the reading log</a>
