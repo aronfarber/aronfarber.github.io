@@ -1,7 +1,5 @@
 ---
 title: kafka
-date: '2022'
-description: "my review of kafka on the shore by murakami"
 ---
 <meta name="robots" content="noindex, nofollow, noarchive">
 
@@ -25,4 +23,4 @@ ultimately, kafka on the shore is well written and there's certainly a set of pe
 
 final rating: 4/10
 
-[>> back to the reading log](/culture/reading)
+[> > back to the reading log](/culture/reading)
