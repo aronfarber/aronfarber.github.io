@@ -25,7 +25,7 @@ tabWidth = 4
 [permalinks]
 projects = "/projects/:slug/"
 writing = "/writing/:slug/"
-consumption = "/consumption/:slug/"
+media = "/media/:slug/"
 
 [[menu.main]]
 name = "projects"
@@ -36,8 +36,8 @@ name = "writing"
 url = "/writing/"
 weight = 2
 [[menu.main]]
-name = "consumption"
-url = "/consumption/"
+name = "media"
+url = "/media/"
 weight = 3
 
 [params]
