@@ -9,9 +9,9 @@ this page is meant to provide a cursory glance into my music taste and what musi
 
 <b id="categories">categories:</b>
 - <a href="#experimental">experimental electronic</a><br>
-- dubstep<br>
-- melodic music<br>
-- high-energy
+- <a href="#dubstep">dubstep</a><br>
+- <a href="#melodic">melodic music</a><br>
+- <a href="#energy">high-energy</a>
 
 <h3 id="experimental">experimental electronic</h3>
 
@@ -45,3 +45,13 @@ lalanoi is a mysterious producer from japan. since suddenly appearing in the sce
 [caesura](https://soundcloud.com/sanctuarycollective/lalanoi-caesura) (2021) - from [growth then decay, vol. 3](https://soundcloud.com/sanctuarycollective/sets/growth-then-decay-vol-3)<br>
 <audio controls src="/images/music/lalanoi_3.mp3"></audio>
 
+**other notable songs**
+
+<a href="#categories">&gt;&gt; back to category selection</a>
+
+
+<h3 id="dubstep">dubstep</h3>
+
+<h3 id="melodic">melodic music</h3>
+
+<h3 id="energy">high-energy</h3>
