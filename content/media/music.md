@@ -5,5 +5,5 @@ title: music
 
 invisible friend (2016) - from traveller
 <audio controls>
-  <source src="/images/quok_1.wav" type="audio/wav">
+  <source src="/images/music/quok_1.wav" type="audio/wav">
 </audio> 
