@@ -8,12 +8,21 @@ if i had to name my singular favorite thing in the world, i would say, without a
 this page is meant to provide a cursory glance into my music taste and what music i like. i've sorted my favorite artists and songs into subcategories to give it some structure. i provide previews, but i implore you to stream/buy the music yourself if you enjoy anything that you hear. proceed with an open mind!
 
 <b id="categories">categories:</b>
-- <a href="#experimental">experimental electronic</a><br>
-- <a href="#dubstep">dubstep</a><br>
-- <a href="#melodic">melodic music</a><br>
-- <a href="#energy">high-energy</a>
+- <a href="#experimental">experimental</a><br>
+  - <a href="#expartists">artists</a>
+  - <a href="#expsongs">songs</a>
+- <a href="#heavy">heavy</a><br>
+  - artists
+  - songs
+- <a href="#melodic">melodic</a><br>
+  - artists
+  - songs
 
-<h3 id="experimental">experimental electronic</h3>
+<h3 id="experimental">experimental <a href="#categories">↩︎</a></h3>
+
+perhaps the style of music i listen to the most is one that can be broadly defined as "experimental". anything with unorthodox sounds or structure could feasibly fit into this category, but in practice it's usually just music with outlandish sound design or complex rhythms. i enjoy music that i structurally can't comprehend. i tend to dance with my hands and face rather than my body, which is conducive to more easily emulating off-beat melodies and rolling sounds. this is also why overly growly or fluttery sound design tends to resonate with me.
+
+<h4 id="expartists">artists <a href="#categories">↩︎</a></h4>
 
 **quok/куок** - [soundcloud](https://soundcloud.com/quok), [bandcamp](https://quok.bandcamp.com)
 
@@ -75,13 +84,13 @@ his second album, [deliverance](https://culprate.bandcamp.com/album/deliverance)
 जलाना (jalaana) (2022) - from αριθμός τέσσερα<br>
 <audio controls src="/images/music/culprate_3.mp3"></audio>
 
-**other notable songs**
+<h4 id="expsongs">other notable songs <a href="#categories">↩︎</a></h4>
 
 <a href="#categories">&gt;&gt; back to category selection</a>
 
 
-<h3 id="dubstep">dubstep</h3>
+<h3 id="heavy">heavy</h3>
 
-<h3 id="melodic">melodic music</h3>
 
-<h3 id="energy">high-energy</h3>
+
+<h3 id="melodic">melodic</h3>
