@@ -17,4 +17,4 @@ things you may read here:
 - a few tidbits [about me and this website](/about).
 - information about [academic and personal projects](/projects) i've worked on.
 - some [creative writing pieces](/writing) about culture or other aspects of life.
-- a log of [media i've consumed](/consumption), including books i've read and my favorite music.
+- a log of [media i've consumed](/media), including books i've read and my favorite music.
