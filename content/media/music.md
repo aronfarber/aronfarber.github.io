@@ -32,7 +32,7 @@ nowadays, he mostly releases under куок, a russian rap alias that i still qu
 
 <figure>
   <img id="quok" src="/images/music/quok.png" width="300" height="300" margin-left="20px">
-  <figcaption text-align="center">the amazing rapper/producer quok! <a href="https://hypestar.ru/person/kuok/">(image source)</a></figcaption>
+  <figcaption text-align="center">the amazing rapper/producer, quok. <a href="https://hypestar.ru/person/kuok/">(image source)</a></figcaption>
 </figure>
 
 [invisible friend](https://quok.bandcamp.com/track/invisible-friend-2) (2016) - from [traveller](https://quok.bandcamp.com/album/traveller)<br>
@@ -67,7 +67,7 @@ ekcle were a duo from the uk. in 2020, they announced that they would be splitti
 
 <figure>
   <img id="ekcle" src="/images/music/ekcle.png" width="300" height="300" margin-left="20px">
-  <figcaption text-align="center">ekcle before they split. members are <a href="https://soundcloud.com/davidgothammusic">david gotham (left)</a> and <a href="https://soundcloud.com/tutarapeak">tutara peak (right)</a>. <a href="https://edm.com/music-releases/ekcle-pearl-jigsaw">(image source)</a></figcaption>
+  <figcaption text-align="center">ekcle before they split. members are <a href="https://soundcloud.com/davidgothammusic">david gotham (left)</a> and <a href="https://soundcloud.com/tutarapeak">tutara peak (right)</a>. <a href="https://soundcloud.com/ekclemusic">(image source: soundcloud)</a></figcaption>
 </figure>
 
 [treading the floors of the sky](https://soundcloud.com/ekclemusic/treading-the-floors-of-the-sky) (2018) with [owsey](https://soundcloud.com/owsey) - single<br>
@@ -85,6 +85,11 @@ culprate is something of an og in electronic music, and has been involved in the
 
 his second album, [deliverance](https://culprate.bandcamp.com/album/deliverance), is my all-time favorite album. it's a massive project featuring collaborations from dozens of other instrumentalists, and is the benchmark of the level of consistency and storytelling that is missing from the vast majority of electronic projects.
 
+<figure>
+  <img id="deliverance" src="/images/music/deliverance.jpg" width="400" height="400" margin-left="20px">
+  <figcaption text-align="center">the insane(ly good) album artwork for <a href="https://culprate.bandcamp.com/album/deliverance">deliverance</a>, illustrated by <a href="https://thomasmcnulty.artstation.com/">thomas mcnulty</a>.</figcaption>
+</figure>
+
 [florn](https://soundcloud.com/culprate/florn) (2014) - from [deliverance](https://culprate.bandcamp.com/album/deliverance)<br>
 <audio controls src="/images/music/culprate_1.mp3"></audio>
 
@@ -93,11 +98,6 @@ his second album, [deliverance](https://culprate.bandcamp.com/album/deliverance)
 
 जलाना (jalaana) (2022) - from αριθμός τέσσερα<br>
 <audio controls src="/images/music/culprate_3.mp3"></audio>
-
-<figure>
-  <img id="deliverance" src="/images/music/deliverance.jpg" width="400" height="400" margin-left="20px">
-  <figcaption text-align="center">the insane(ly good) album artwork for <a href="https://culprate.bandcamp.com/album/deliverance">deliverance</a>, illustrated by <a href="https://thomasmcnulty.artstation.com/">thomas mcnulty</a>.</figcaption>
-</figure>
 
 <h4 id="expsongs">other notable songs <a href="#categories">↩︎</a></h4>
 
@@ -193,6 +193,11 @@ jkuch has a style completely distinct from any other musician i've ever heard. a
 
 in 2022, the american producer released his debut album, [specter's garden](https://soundcloud.com/jkuch/sets/specters-garden-album). it's definitely a more conventional approach to the singer-songwriter format, and i only enjoyed a couple of songs from it. ultimately, jkuch remains one of the most unique and authentic producers in the scene, and i have no doubt this will continue for the forseeable future.
 
+<figure>
+  <img id="jkuch" src="/images/music/jkuch.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">jkuch in 2022. <a href="https://www.instagram.com/p/CbFvmWCux-d">(image source: instagram)</a></figcaption>
+</figure>
+
 [legend of coda](https://soundcloud.com/jkuch/legend-of-coda) (2017) - single<br>
 <audio controls src="/images/music/jkuch_1.mp3"></audio>
 
@@ -201,11 +206,6 @@ in 2022, the american producer released his debut album, [specter's garden](http
 
 [maybe](https://soundcloud.com/jkuch/maybe) (2022) with [adam tell](https://soundcloud.com/adam-tell) - from [specter's garden](https://soundcloud.com/jkuch/sets/specters-garden-album)<br>
 <audio controls src="/images/music/jkuch_3.mp3"></audio>
-
-<figure>
-  <img id="jkuch" src="/images/music/jkuch.png" width="300" height="300" margin-left="20px">
-  <figcaption text-align="center">jkuch in 2022. <a href="https://www.instagram.com/p/CbFvmWCux-d">(image source: instagram)</a></figcaption>
-</figure>
 
 **candid oak** - [soundcloud](https://soundcloud.com/candid_oak), [bandcamp](https://candidoak.bandcamp.com)
 
@@ -228,6 +228,11 @@ genre-defining, masterful, and impactful are all words i would use to describle 
 
 au5 is an american producer with an incredibly diverse and expansive discography. throughout the 2010s, there is an audible progression in his discography as he refined his sound and technique. he's a mainstay on the edm label [monstercat](https://www.youtube.com/c/Monstercat), which i grew up listening to religiously.
 
+<figure>
+  <img id="au5" src="/images/music/au5.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">electronic music pioneer au5 in 2012. <a href="https://en.wikipedia.org/wiki/Au5#/media/File:Au5_-_Austin_Collins.jpg">(image source: wikipedia)</a></figcaption>
+</figure>
+
 [guardians](https://soundcloud.com/au5/au5-guardians-feat-fiora) (2015) feat. [fiora](https://soundcloud.com/fiora) - from [monstercat 024 - vanguard](https://soundcloud.com/monstercat/sets/monstercat-024-vanguard)<br>
 <audio controls src="/images/music/au5_1.mp3"></audio>
 
@@ -236,11 +241,6 @@ au5 is an american producer with an incredibly diverse and expansive discography
 
 [piercing quiet (au5 remix)](https://soundcloud.com/tritonalmusic/piercing-quiet-au5-remix-feat) (2021) original by [tritonal](https://soundcloud.com/tritonalmusic) & [cristina soto](https://soundcloud.com/thesotosinger) - single<br>
 <audio controls src="/images/music/au5_3.mp3"></audio>
-
-<figure>
-  <img id="jkuch" src="/images/music/jkuch.png" width="300" height="300" margin-left="20px">
-  <figcaption text-align="center">electronic music pioneer au5 in 2012. <a href="https://en.wikipedia.org/wiki/Au5#/media/File:Au5_-_Austin_Collins.jpg">(image source: wikipedia)</a></figcaption>
-</figure>
 
 **mameyudoufu** - [soundcloud](https://soundcloud.com/mameyudoufu), [bandcamp](https://mameyudoufu.bandcamp.com/)
 
