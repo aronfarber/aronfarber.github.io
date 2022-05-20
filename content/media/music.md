@@ -26,6 +26,12 @@ perhaps the style of music i listen to the most is one that can be broadly defin
 
 **quok/куок** - [soundcloud](https://soundcloud.com/quok), [bandcamp](https://quok.bandcamp.com)
 
+ <figure>
+  <img id="quok" src="/images/music/quok.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">quok!</figcaption>
+</figure> 
+
+
 quok's music aligns perfectly with my sensibilities. off-kilter beats, frequent glitches and flairs of sound design, and nuanced song structures are all elements of his songs that i enjoy. his production usually isn't perfect, and oftentimes his english lyrics are rather odd. his discography contains recurring musical and lyrical motifs that persist across his various albums. in my eyes these traits are eccentric, but they only add to the character and uniqueness of his style.
 
 nowadays, he mostly releases under куок, a russian rap alias that i still quite enjoy due to the presence of his production. he seems to be relatively popular in russia as a rapper, and he still maintains a decent following in the soundcloud scene from his days as an electronic artist. however, i do often yearn for another instrumental quok album, since his last one under the alias was [genesis](https://quok.bandcamp.com/album/genesis), in 2019.
