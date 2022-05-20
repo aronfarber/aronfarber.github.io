@@ -26,15 +26,14 @@ perhaps the style of music i listen to the most is one that can be broadly defin
 
 **quok/куок** - [soundcloud](https://soundcloud.com/quok), [bandcamp](https://quok.bandcamp.com)
 
- <figure>
-  <img id="quok" src="/images/music/quok.png" width="300" height="300" margin-left="20px">
-  <figcaption text-align="center">quok!</figcaption>
-</figure> 
-
-
 quok's music aligns perfectly with my sensibilities. off-kilter beats, frequent glitches and flairs of sound design, and nuanced song structures are all elements of his songs that i enjoy. his production usually isn't perfect, and oftentimes his english lyrics are rather odd. his discography contains recurring musical and lyrical motifs that persist across his various albums. in my eyes these traits are eccentric, but they only add to the character and uniqueness of his style.
 
 nowadays, he mostly releases under куок, a russian rap alias that i still quite enjoy due to the presence of his production. he seems to be relatively popular in russia as a rapper, and he still maintains a decent following in the soundcloud scene from his days as an electronic artist. however, i do often yearn for another instrumental quok album, since his last one under the alias was [genesis](https://quok.bandcamp.com/album/genesis), in 2019.
+
+<figure>
+  <img id="quok" src="/images/music/quok.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">the amazing rapper/producer quok! <a href="https://hypestar.ru/person/kuok/">(image source)</a></figcaption>
+</figure>
 
 [invisible friend](https://quok.bandcamp.com/track/invisible-friend-2) (2016) - from [traveller](https://quok.bandcamp.com/album/traveller)<br>
 <audio controls src="/images/music/quok_1.mp3"></audio>
@@ -66,6 +65,11 @@ no producers were able to meld the realms of synthetic and organic sound as well
 
 ekcle were a duo from the uk. in 2020, they announced that they would be splitting, thereby ending the project indefinitely. the two went on to start their own solo projects ([tutara peak](https://soundcloud.com/tutarapeak) and [david gotham](https://soundcloud.com/davidgothammusic)), but i haven't enjoyed either of their individual outputs nearly as much as their efforts under ekcle. at least this way, they have cemented an incredibly consistent catalog that will maintain a legendary status within electronic music.
 
+<figure>
+  <img id="ekcle" src="/images/music/ekcle.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">ekcle before they split. members are <a href="https://soundcloud.com/davidgothammusic">david gotham (left)</a> and <a href="https://soundcloud.com/tutarapeak">tutara peak (right)</a>. <a href="https://edm.com/music-releases/ekcle-pearl-jigsaw">(image source)</a></figcaption>
+</figure>
+
 [treading the floors of the sky](https://soundcloud.com/ekclemusic/treading-the-floors-of-the-sky) (2018) with [owsey](https://soundcloud.com/owsey) - single<br>
 <audio controls src="/images/music/ekcle_1.mp3"></audio>
 
@@ -89,6 +93,11 @@ his second album, [deliverance](https://culprate.bandcamp.com/album/deliverance)
 
 जलाना (jalaana) (2022) - from αριθμός τέσσερα<br>
 <audio controls src="/images/music/culprate_3.mp3"></audio>
+
+<figure>
+  <img id="deliverance" src="/images/music/deliverance.jpg" width="400" height="400" margin-left="20px">
+  <figcaption text-align="center">the insane(ly good) album artwork for <a href="https://culprate.bandcamp.com/album/deliverance">deliverance</a>, illustrated by <a href="https://thomasmcnulty.artstation.com/">thomas mcnulty</a>.</figcaption>
+</figure>
 
 <h4 id="expsongs">other notable songs <a href="#categories">↩︎</a></h4>
 
@@ -132,6 +141,11 @@ until 2020, the french producer was a slightly above-average dubstep artist who 
 the producer who completely revolutionized the genre of dubstep for me. the opposite of repetitive, his music is always chock full of crazy switchups and complex rhythms. his use of high-energy vocal samples adds character to his music, acting as recurring anchors to get me entranced in the flow. on top of that, his mixdowns are some of the cleanest in the scene, allowing for his creative ideas to shine through every song.
 
 beutnoise, hailing from cuba, hasn't been releasing music for very long. his early music was very hip-hop influenced, a quality which has propagated throughout his newer music in the form of vocal sampling. his catalog is unbelievably consistent, and i have no doubt that he will eventually go down in history as one of the greatest modern dubstep producers.
+
+<figure>
+  <img id="beutnoise" src="/images/music/beutnoise.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">dubstep producer beutnoise in 2022. <a href="https://www.instagram.com/p/CbkwRBcOCQj">(image source: instagram)</a></figcaption>
+</figure>
 
 [on your knees](https://soundcloud.com/discipleroundtable/onyourknees) (2020) - from [kong ep](https://soundcloud.com/beutnoise/sets/beutnoise-kong-ep-out-on)<br>
 <audio controls src="/images/music/beutnoise_1.mp3"></audio>
@@ -188,6 +202,11 @@ in 2022, the american producer released his debut album, [specter's garden](http
 [maybe](https://soundcloud.com/jkuch/maybe) (2022) with [adam tell](https://soundcloud.com/adam-tell) - from [specter's garden](https://soundcloud.com/jkuch/sets/specters-garden-album)<br>
 <audio controls src="/images/music/jkuch_3.mp3"></audio>
 
+<figure>
+  <img id="jkuch" src="/images/music/jkuch.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">jkuch in 2022. <a href="https://www.instagram.com/p/CbFvmWCux-d">(image source: instagram)</a></figcaption>
+</figure>
+
 **candid oak** - [soundcloud](https://soundcloud.com/candid_oak), [bandcamp](https://candidoak.bandcamp.com)
 
 my go-to feel-good producer. candid oak's music strikes a perfect balance between complex, catchy flows and warm, comforting sounds. his songs constantly evolve, rarely staying in one place, making each song feel like an adventure. his organic and nature-inspired percussion, sound design, and vocal sampling are just so unique and never fail to inspire a happy mood within me.
@@ -217,6 +236,11 @@ au5 is an american producer with an incredibly diverse and expansive discography
 
 [piercing quiet (au5 remix)](https://soundcloud.com/tritonalmusic/piercing-quiet-au5-remix-feat) (2021) original by [tritonal](https://soundcloud.com/tritonalmusic) & [cristina soto](https://soundcloud.com/thesotosinger) - single<br>
 <audio controls src="/images/music/au5_3.mp3"></audio>
+
+<figure>
+  <img id="jkuch" src="/images/music/jkuch.png" width="300" height="300" margin-left="20px">
+  <figcaption text-align="center">electronic music pioneer au5 in 2012. <a href="https://en.wikipedia.org/wiki/Au5#/media/File:Au5_-_Austin_Collins.jpg">(image source: wikipedia)</a></figcaption>
+</figure>
 
 **mameyudoufu** - [soundcloud](https://soundcloud.com/mameyudoufu), [bandcamp](https://mameyudoufu.bandcamp.com/)
 
