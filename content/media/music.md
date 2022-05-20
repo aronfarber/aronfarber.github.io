@@ -102,6 +102,8 @@ aleph is a producer who often uses [modular synthesis](https://en.wikipedia.org/
 
 <h3 id="heavy">heavy</h3>
 
+"heavy" is a self-explanatory label for music. bangers, slappers, hits, whatever your preferred terminology may be. in my case, it usually means [dubstep](https://en.wikipedia.org/wiki/Dubstep). dubstep has a pretty bad rap among people who don't listen to it. it often gets ridiculed by mainstream audiences stemming from its frequent use as a comedic break in the early 2010s, during the height of [skrillex](https://en.wikipedia.org/wiki/Skrillex)'s popularity (an artist whose talents i acknowledge but don't personally enjoy very much). however, dubstep is an unfathomably diverse and expansive genre, and it has improved significantly within the past two or three years. i've personally felt insecure about my enjoyment of the genre, and i hope that if you've stumbled across these songs as someone unfamiliar with the genre, that you keep an open mind.
+
 <h4 id="heavyartists">artists <a href="#categories">↩︎</a></h4>
 
 **sharks** - [soundcloud](https://soundcloud.com/sharkstunes), [youtube (cool music videos!)](https://www.youtube.com/sharkstunes)
@@ -119,7 +121,7 @@ until 2020, the french producer was a slightly above-average dubstep artist who 
 [field of view](https://soundcloud.com/sharkstunes/field-of-view) (2022) - from [infinity ep](https://soundcloud.com/pilotrecordsuk/sets/sharks-infinity-ep)<br>
 <audio controls src="/images/music/sharks_3.mp3"></audio>
 
-**beutnoise** - [soundcloud](https://soundcloud.com/beutnoise), [youtube](https://www.youtube.com/sharkstunes](https://www.youtube.com/channel/UC6f1dUhkKO0Nfz3X3Fdr09A)
+**beutnoise** - [soundcloud](https://soundcloud.com/beutnoise), [youtube](https://www.youtube.com/channel/UC6f1dUhkKO0Nfz3X3Fdr09A)
 
 the producer who completely revolutionized the genre of dubstep for me. the opposite of repetitive, his music is always chock full of crazy switchups and complex rhythms. his use of high-energy vocal samples adds character to his music, acting as recurring anchors to get me entranced in the flow. on top of that, his mixdowns are some of the cleanest in the scene, allowing for his creative ideas to shine through every song.
 
@@ -161,24 +163,11 @@ for me, stuttery delivery in dubstep is a guilty pleasure. nothing feels more mo
 
 <h3 id="melodic">melodic</h3>
 
+in my case, in the realm of electronic music, "melodic" can still often mean impactful and bass-heavy. oftentimes melodic edm tracks have some poppy element, such as a vocalist or a repetitive hook. i also tend to enjoy [future bass](https://en.wikipedia.org/wiki/Future_bass), which is probably the electronic subgenre with the most mainstream appeal due to its popularization by acts like [the chainsmokers]. don't worry though, i'm not generally into commercialized future bass and promise to put some more interesting melodic music on show in this list. 
+
 <h4 id="melodicartists">artists <a href="#categories">↩︎</a></h4>
 
-au5 - [soundcloud](https://soundcloud.com/au5), [bandcamp](https://au5music.bandcamp.com/)
-
-genre-defining, masterful, and impactful are all words i would use to describle au5's music. his trademark combination of well-designed, rolling basses and rich melodic tones is easily recognizable among edm fans. he often utilizes dramatic vocalists to make each song feel grand and lofty. his sound design and mixing has become renowned, and his unique arrangements have spawned an entire recognizable style that many other artists have emulated in the edm scene.
-
-au5 is an american producer with an incredibly diverse and expansive discography. throughout the 2010s, there is an audible progression in his discography as he refined his sound and technique. he's a mainstay on the edm label [monstercat](https://www.youtube.com/c/Monstercat), which i grew up listening to religiously.
-
-[guardians](https://soundcloud.com/au5/au5-guardians-feat-fiora) (2015) feat. [fiora](https://soundcloud.com/fiora) - from [monstercat 024 - vanguard](https://soundcloud.com/monstercat/sets/monstercat-024-vanguard)<br>
-<audio controls src="/images/music/au5_1.mp3"></audio>
-
-[beautiful sky](https://soundcloud.com/au5/au5-beautiful-sky) (2019) feat. [daniel hanson](https://soundcloud.com/danielhansonmusic) - from [divinorum](https://au5music.bandcamp.com/album/divinorum-lp-2)<br>
-<audio controls src="/images/music/au5_2.mp3"></audio>
-
-[piercing quiet (au5 remix)](https://soundcloud.com/tritonalmusic/piercing-quiet-au5-remix-feat) (2021) original by [tritonal](https://soundcloud.com/tritonalmusic) & [cristina soto](https://soundcloud.com/thesotosinger) - single<br>
-<audio controls src="/images/music/au5_3.mp3"></audio>
-
-jkuch - [soundcloud](https://soundcloud.com/jkuch), [bandcamp](https://jkuch.bandcamp.com/)
+**jkuch** - [soundcloud](https://soundcloud.com/jkuch), [bandcamp](https://jkuch.bandcamp.com/)
 
 jkuch has a style completely distinct from any other musician i've ever heard. all of his sounds are self-processed and he is often his own vocalist, giving his songs a distinct palette that is easily recognizable. his music generally falls under the label of lush and melodic future bass, but his discography is so diverse in ideas that he is easily one of the artists i have spent the most time listening to over the years.
 
@@ -193,22 +182,7 @@ in 2022, the american producer released his debut album, [specter's garden](http
 [maybe](https://soundcloud.com/jkuch/maybe) (2022) with [adam tell](https://soundcloud.com/adam-tell) - from [specter's garden](https://soundcloud.com/jkuch/sets/specters-garden-album)<br>
 <audio controls src="/images/music/jkuch_3.mp3"></audio>
 
-mameyudoufu - [soundcloud](https://soundcloud.com/mameyudoufu), [bandcamp](https://mameyudoufu.bandcamp.com/)
-
-i'm pretty into [doujin music](https://en.wikipedia.org/wiki/Doujin_music), which is a scene of independently released electronic music in japan. much of the music is rhythm game inspired, necessitating high-energy flows and a fast tempo. mameyudoufu is my favorite of these artists. he's an amazing melody writer and his production makes him the king of the electronic subgenres of complextro and happy hardcore.
-
-doujin music remains a well-kept secret in electronic music, and much of it is still only distributed via physical cds at japanese music conventions. some doujin circles (equivalent of record labels) like [megarex](https://megarex.jp/) and [diverse system](https://diverse.jp/) began expanding to streaming services around 2020, making doujin more accessible to the west. mameyudoufu was always active on soundcloud and, as a megarex mainstay, has cemented himself as one of the most popular japanese edm artists among westerners.
-
-[circuit breaker](https://unitonejp.bandcamp.com/track/circuit-breaker) (2018) - from [unitone strong 2: evolved](https://unitonejp.bandcamp.com/album/unitone-strong-2-evolved)<br>
-<audio controls src="/images/music/mameyudoufu_1.mp3"></audio>
-
-[esperanza](https://youtu.be/_grnlZO8igo?t=693) (2019) - from [necromance](https://diverse.direct/megarex/mrx-010/)<br>
-<audio controls src="/images/music/mameyudoufu_2.mp3"></audio>
-
-[bass music is hard yo](https://soundcloud.com/mameyudoufu/2nd-album-boot-loader-xfd#t=3:42) (2021) - from [boot loader](https://diverse.direct/megarex/mrx-101/)<br>
-<audio controls src="/images/music/mameyudoufu_3.mp3"></audio>
-
-candid oak - [soundcloud](https://soundcloud.com/candid_oak), [bandcamp](https://candidoak.bandcamp.com)
+**candid oak** - [soundcloud](https://soundcloud.com/candid_oak), [bandcamp](https://candidoak.bandcamp.com)
 
 my go-to feel-good producer. candid oak's music strikes a perfect balance between complex, catchy flows and warm, comforting sounds. his songs constantly evolve, rarely staying in one place, making each song feel like an adventure. his organic and nature-inspired percussion, sound design, and vocal sampling are just so unique and never fail to inspire a happy mood within me.
 
@@ -222,6 +196,36 @@ candid oak only has 2 released songs under the alias. music like his is intricat
 
 [grasp](https://soundcloud.com/candid_oak/grasp) (2020) - single<br>
 <audio controls src="/images/music/candid_3.mp3"></audio>
+
+**au5** - [soundcloud](https://soundcloud.com/au5), [bandcamp](https://au5music.bandcamp.com/)
+
+genre-defining, masterful, and impactful are all words i would use to describle au5's music. his trademark combination of well-designed, rolling basses and rich melodic tones is easily recognizable among edm fans. he often utilizes dramatic vocalists to make each song feel grand and lofty. his sound design and mixing has become renowned, and his unique arrangements have spawned an entire recognizable style that many other artists have emulated in the edm scene.
+
+au5 is an american producer with an incredibly diverse and expansive discography. throughout the 2010s, there is an audible progression in his discography as he refined his sound and technique. he's a mainstay on the edm label [monstercat](https://www.youtube.com/c/Monstercat), which i grew up listening to religiously.
+
+[guardians](https://soundcloud.com/au5/au5-guardians-feat-fiora) (2015) feat. [fiora](https://soundcloud.com/fiora) - from [monstercat 024 - vanguard](https://soundcloud.com/monstercat/sets/monstercat-024-vanguard)<br>
+<audio controls src="/images/music/au5_1.mp3"></audio>
+
+[beautiful sky](https://soundcloud.com/au5/au5-beautiful-sky) (2019) feat. [daniel hanson](https://soundcloud.com/danielhansonmusic) - from [divinorum](https://au5music.bandcamp.com/album/divinorum-lp-2)<br>
+<audio controls src="/images/music/au5_2.mp3"></audio>
+
+[piercing quiet (au5 remix)](https://soundcloud.com/tritonalmusic/piercing-quiet-au5-remix-feat) (2021) original by [tritonal](https://soundcloud.com/tritonalmusic) & [cristina soto](https://soundcloud.com/thesotosinger) - single<br>
+<audio controls src="/images/music/au5_3.mp3"></audio>
+
+**mameyudoufu** - [soundcloud](https://soundcloud.com/mameyudoufu), [bandcamp](https://mameyudoufu.bandcamp.com/)
+
+i'm pretty into [doujin music](https://en.wikipedia.org/wiki/Doujin_music), which is a scene of independently released electronic music in japan. much of the music is rhythm game inspired, necessitating high-energy flows and a fast tempo. mameyudoufu is my favorite of these artists. he's an amazing melody writer and his production makes him the king of the electronic subgenres of complextro and happy hardcore.
+
+doujin music remains a well-kept secret in electronic music, and much of it is still only distributed via physical cds at japanese music conventions. some doujin circles (equivalent of record labels) like [megarex](https://megarex.jp/) and [diverse system](https://diverse.jp/) began expanding to streaming services around 2020, making doujin more accessible to the west. mameyudoufu was always active on soundcloud and, as a megarex mainstay, has cemented himself as one of the most popular japanese edm artists among westerners.
+
+[circuit breaker](https://unitonejp.bandcamp.com/track/circuit-breaker) (2018) - from [unitone strong 2: evolved](https://unitonejp.bandcamp.com/album/unitone-strong-2-evolved)<br>
+<audio controls src="/images/music/mameyudoufu_1.mp3"></audio>
+
+[esperanza](https://youtu.be/_grnlZO8igo?t=693) (2019) - from [necromance](https://diverse.direct/megarex/mrx-010/)<br>
+<audio controls src="/images/music/mameyudoufu_2.mp3"></audio>
+
+[bass music is hard yo](https://soundcloud.com/mameyudoufu/2nd-album-boot-loader-xfd#t=3:42) (2021) - from [boot loader](https://diverse.direct/megarex/mrx-101/)<br>
+<audio controls src="/images/music/mameyudoufu_3.mp3"></audio>
 
 <h4 id="melodicsongs">other notable songs <a href="#categories">↩︎</a></h4>
 
