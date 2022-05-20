@@ -70,4 +70,4 @@ going from having no experience working with electronics to being able to make m
 
 next; learn [zmk](https://zmk.dev/) and build a fully wireless split-ergo keyboard fit with an onboard battery.
 
-[^1]: this section contains wording that could be construed as medical advice, so it's worth noting that i am not a lisenced medical professional. although i've done ample personal research about ergonomics, the contents of this section should not be taken as inalienable fact. 
+[^1]: this section contains wording that could be construed as medical advice, so it's worth noting that i am by no means a medical expert. although i've done  personal research about ergonomics, the contents of this section should not be taken as fact. 
