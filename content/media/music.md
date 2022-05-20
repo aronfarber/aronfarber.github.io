@@ -12,11 +12,11 @@ this page is meant to provide a cursory glance into my music taste and what musi
   - <a href="#expartists">artists</a>
   - <a href="#expsongs">songs</a>
 - <a href="#heavy">heavy</a><br>
-  - artists
-  - songs
+  - <a href="#heavyartists">artists</a>
+  - <a href="#heavysongs">songs</a>
 - <a href="#melodic">melodic</a><br>
-  - artists
-  - songs
+  - <a href="#melodicartists">artists</a>
+  - <a href="#melodicsongs">songs</a>
 
 <h3 id="experimental">experimental <a href="#categories">↩︎</a></h3>
 
@@ -86,11 +86,149 @@ his second album, [deliverance](https://culprate.bandcamp.com/album/deliverance)
 
 <h4 id="expsongs">other notable songs <a href="#categories">↩︎</a></h4>
 
-<a href="#categories">&gt;&gt; back to category selection</a>
+[emelka](https://soundcloud.com/emelka) & [nyah](https://soundcloud.com/imnyah) - [land of lanterns](https://soundcloud.com/sanctuarycollective/emelka-nyah-land-of-lanterns)
 
+a dream collaboration from two artists i generally always enjoy, land of lanterns follows a brilliant progression through three vastly unique yet cohesive drops. something about the melody eratically jumping around in terms of both tonality and stereo field is endlessly entertaining to me.
+
+<audio controls src="/images/music/landoflanterns.mp3"></audio>
+
+[aleph](https://soundcloud.com/aleph_sound) - [mourn](https://soundcloud.com/inspected/aleph-mourn-2)
+
+aleph is a producer who often uses [modular synthesis](https://en.wikipedia.org/wiki/Modular_synthesizer) to emulate the natural entropy of sounds in the digital realm. this generally creates distortion and artifacts in his music which are on full display in mourn. it feels so raw, and adds an atmosphere to this song that is just so somber and emotional.
+
+<audio controls src="/images/music/mourn.mp3"></audio>
+
+<a href="#categories">&gt;&gt; back to category selection</a>
 
 <h3 id="heavy">heavy</h3>
 
+<h4 id="heavyartists">artists <a href="#categories">↩︎</a></h4>
 
+**sharks** - [soundcloud](https://soundcloud.com/sharkstunes), [youtube (cool music videos!)](https://www.youtube.com/sharkstunes)
+
+in my opinion, sharks is the best dubstep producer alive currently when it comes to mixing and production quality. his distinct ability to combine sharp drums with layers of insanely complex fluttery synths and basses makes his music hit incredibly hard. his frequent use of vocal samples adds flow and a factor of catchiness to his tracks.
+
+until 2020, the french producer was a slightly above-average dubstep artist who i wouldn't have given a second look. since then, a unique shift in style, massive improvements in his production capabilities, and a very prolific output of eps has cemented sharks as my absolute favorite dubstep artist at the moment.
+
+[rainbow gun](https://soundcloud.com/sharkstunes/sharks-rainbow-gun) (2021) - single<br>
+<audio controls src="/images/music/sharks_1.mp3"></audio>
+
+[nereid](https://soundcloud.com/disciple/nereid) (2021) - from [water elemental ep](https://soundcloud.com/disciple/sets/waterelementalep)<br>
+<audio controls src="/images/music/sharks_2.mp3"></audio>
+
+[field of view](https://soundcloud.com/sharkstunes/field-of-view) (2022) - from [infinity ep](https://soundcloud.com/pilotrecordsuk/sets/sharks-infinity-ep)<br>
+<audio controls src="/images/music/sharks_3.mp3"></audio>
+
+**beutnoise** - [soundcloud](https://soundcloud.com/beutnoise), [youtube](https://www.youtube.com/sharkstunes](https://www.youtube.com/channel/UC6f1dUhkKO0Nfz3X3Fdr09A)
+
+the producer who completely revolutionized the genre of dubstep for me. the opposite of repetitive, his music is always chock full of crazy switchups and complex rhythms. his use of high-energy vocal samples adds character to his music, acting as recurring anchors to get me entranced in the flow. on top of that, his mixdowns are some of the cleanest in the scene, allowing for his creative ideas to shine through every song.
+
+beutnoise, hailing from cuba, hasn't been releasing music for very long. his early music was very hip-hop influenced, a quality which has propagated throughout his newer music in the form of vocal sampling. his catalog is unbelievably consistent, and i have no doubt that he will eventually go down in history as one of the greatest modern dubstep producers.
+
+[on your knees](https://soundcloud.com/discipleroundtable/onyourknees) (2020) - from [kong ep](https://soundcloud.com/beutnoise/sets/beutnoise-kong-ep-out-on)<br>
+<audio controls src="/images/music/beutnoise_1.mp3"></audio>
+
+[baboon](https://soundcloud.com/malignant_music/beutnoise-baboon) (2021) - from [malignant vol.2](https://soundcloud.com/malignant_music/sets/malignant-vol2)<br>
+<audio controls src="/images/music/beutnoise_2.mp3"></audio>
+
+[banana in ur face](https://soundcloud.com/beutnoise/beutnoise-banana-in-ur-face) (2022) - from [embrace ep](https://soundcloud.com/discipleroundtable/sets/embraceep)<br>
+<audio controls src="/images/music/beutnoise_3.mp3"></audio>
+
+**hukae** - [soundcloud](https://soundcloud.com/hukae/tracks)
+
+hukae's tracks feature permanently awkward flows, barebones arrangements, and strange sound design. ultimately, the variation in his ideas, paired with pristine percussion selection, make each hukae track extremely interesting. each track features a slew of subtle choices, such as slight switchups in rhythm or a different snare for a single beat, that keep me engaged throughout every drop.
+
+hukae is a british producer who concocted this unique dubstep style within just the last few years, previously being your average uk riddim artist. with the dissolution of [never say die](https://soundcloud.com/neversaydie), his main label that was generally considered a behemoth within the dubstep scene, i personally hope he makes the rounds within other og riddim circles and inspires other producers to add similar levels of nuance to their own tracks.
+
+[doozy](https://soundcloud.com/hukae/hukae-doozy) (2020) - from [future ep](https://soundcloud.com/hukae/sets/hukae-future-ep)<br>
+<audio controls src="/images/music/hukae_1.mp3"></audio>
+
+[pulsar](https://soundcloud.com/hukae/pulsar) (2021) - from [black ops: enhanced](https://soundcloud.com/neversaydie/sets/black-ops-enhanced)<br>
+<audio controls src="/images/music/hukae_2.mp3"></audio>
+
+[task manager](https://soundcloud.com/malignant_music/hukae-task-manager) (2022) - from [arcane ep](https://soundcloud.com/hukae/sets/arcane-ep-malignant)<br>
+<audio controls src="/images/music/hukae_3.mp3"></audio>
+
+<h4 id="heavysongs">other notable songs <a href="#categories">↩︎</a></h4>
+
+[kero](https://soundcloud.com/keromusic_official) - [rainforest](https://soundcloud.com/rushdownrecs/kero-rainforest)
+
+for me, stuttery delivery in dubstep is a guilty pleasure. nothing feels more momentous than a massive percussion hit and bass growl after a second of silence. kero incorporates this intermittent flow along with some syncopation in what is absolutely one of the hardest-hitting dubstep songs of all time.
+
+<audio controls src="/images/music/rainforest.mp3"></audio>
+
+<a href="#categories">&gt;&gt; back to category selection</a>
 
 <h3 id="melodic">melodic</h3>
+
+<h4 id="melodicartists">artists <a href="#categories">↩︎</a></h4>
+
+au5 - [soundcloud](https://soundcloud.com/au5), [bandcamp](https://au5music.bandcamp.com/)
+
+genre-defining, masterful, and impactful are all words i would use to describle au5's music. his trademark combination of well-designed, rolling basses and rich melodic tones is easily recognizable among edm fans. he often utilizes dramatic vocalists to make each song feel grand and lofty. his sound design and mixing has become renowned, and his unique arrangements have spawned an entire recognizable style that many other artists have emulated in the edm scene.
+
+au5 is an american producer with an incredibly diverse and expansive discography. throughout the 2010s, there is an audible progression in his discography as he refined his sound and technique. he's a mainstay on the edm label [monstercat](https://www.youtube.com/c/Monstercat), which i grew up listening to religiously.
+
+[guardians](https://soundcloud.com/au5/au5-guardians-feat-fiora) (2015) feat. [fiora](https://soundcloud.com/fiora) - from [monstercat 024 - vanguard](https://soundcloud.com/monstercat/sets/monstercat-024-vanguard)<br>
+<audio controls src="/images/music/au5_1.mp3"></audio>
+
+[beautiful sky](https://soundcloud.com/au5/au5-beautiful-sky) (2019) feat. [daniel hanson](https://soundcloud.com/danielhansonmusic) - from [divinorum](https://au5music.bandcamp.com/album/divinorum-lp-2)<br>
+<audio controls src="/images/music/au5_2.mp3"></audio>
+
+[piercing quiet (au5 remix)](https://soundcloud.com/tritonalmusic/piercing-quiet-au5-remix-feat) (2021) original by [tritonal](https://soundcloud.com/tritonalmusic) & [cristina soto](https://soundcloud.com/thesotosinger) - single<br>
+<audio controls src="/images/music/au5_3.mp3"></audio>
+
+jkuch - [soundcloud](https://soundcloud.com/jkuch), [bandcamp](https://jkuch.bandcamp.com/)
+
+jkuch has a style completely distinct from any other musician i've ever heard. all of his sounds are self-processed and he is often his own vocalist, giving his songs a distinct palette that is easily recognizable. his music generally falls under the label of lush and melodic future bass, but his discography is so diverse in ideas that he is easily one of the artists i have spent the most time listening to over the years.
+
+in 2022, the american producer released his debut album, [specter's garden](https://soundcloud.com/jkuch/sets/specters-garden-album). it's definitely a more conventional approach to the singer-songwriter format, and i only enjoyed a couple of songs from it. ultimately, jkuch remains one of the most unique and authentic producers in the scene, and i have no doubt this will continue for the forseeable future.
+
+[legend of coda](https://soundcloud.com/jkuch/legend-of-coda) (2017) - single<br>
+<audio controls src="/images/music/jkuch_1.mp3"></audio>
+
+[tempo](https://soundcloud.com/jkuch/tempo-feat-patches) (2019) feat. [patches](https://soundcloud.com/patchesraps) - single<br>
+<audio controls src="/images/music/jkuch_2.mp3"></audio>
+
+[maybe](https://soundcloud.com/jkuch/maybe) (2022) with [adam tell](https://soundcloud.com/adam-tell) - from [specter's garden](https://soundcloud.com/jkuch/sets/specters-garden-album)<br>
+<audio controls src="/images/music/jkuch_3.mp3"></audio>
+
+mameyudoufu - [soundcloud](https://soundcloud.com/mameyudoufu), [bandcamp](https://mameyudoufu.bandcamp.com/)
+
+i'm pretty into [doujin music](https://en.wikipedia.org/wiki/Doujin_music), which is a scene of independently released electronic music in japan. much of the music is rhythm game inspired, necessitating high-energy flows and a fast tempo. mameyudoufu is my favorite of these artists. he's an amazing melody writer and his production makes him the king of the electronic subgenres of complextro and happy hardcore.
+
+doujin music remains a well-kept secret in electronic music, and much of it is still only distributed via physical cds at japanese music conventions. some doujin circles (equivalent of record labels) like [megarex](https://megarex.jp/) and [diverse system](https://diverse.jp/) began expanding to streaming services around 2020, making doujin more accessible to the west. mameyudoufu was always active on soundcloud and, as a megarex mainstay, has cemented himself as one of the most popular japanese edm artists among westerners.
+
+[circuit breaker](https://unitonejp.bandcamp.com/track/circuit-breaker) (2018) - from [unitone strong 2: evolved](https://unitonejp.bandcamp.com/album/unitone-strong-2-evolved)<br>
+<audio controls src="/images/music/mameyudoufu_1.mp3"></audio>
+
+[esperanza](https://youtu.be/_grnlZO8igo?t=693) (2019) - from [necromance](https://diverse.direct/megarex/mrx-010/)<br>
+<audio controls src="/images/music/mameyudoufu_2.mp3"></audio>
+
+[bass music is hard yo](https://soundcloud.com/mameyudoufu/2nd-album-boot-loader-xfd#t=3:42) (2021) - from [boot loader](https://diverse.direct/megarex/mrx-101/)<br>
+<audio controls src="/images/music/mameyudoufu_3.mp3"></audio>
+
+candid oak - [soundcloud](https://soundcloud.com/candid_oak), [bandcamp](https://candidoak.bandcamp.com)
+
+my go-to feel-good producer. candid oak's music strikes a perfect balance between complex, catchy flows and warm, comforting sounds. his songs constantly evolve, rarely staying in one place, making each song feel like an adventure. his organic and nature-inspired percussion, sound design, and vocal sampling are just so unique and never fail to inspire a happy mood within me.
+
+candid oak only has 2 released songs under the alias. music like his is intricate and layered, which i can only imagine takes a considerable amount of time to create. the norwegian producer is not particularly active on online platforms. these only make the few releases we have from him feel so special, and the day he drops his next song will be all the more momentous.
+
+[the way i see ya](https://soundcloud.com/nightowlcollective/konane-the-way-i-see-ya) (2017) as [konane](https://soundcloud.com/konane) - [from feel trip, vol. 3](https://nightowlcollective.bandcamp.com/album/feel-trip-vol-3)<br>
+<audio controls src="/images/music/candid_1.mp3"></audio>
+
+[the path forward](https://soundcloud.com/nightowlcollective/the-path-forward) (2020) - from [feel trip, vol. 4: reincarnation](https://nightowlcollective.bandcamp.com/album/feel-trip-vol-4-reincarnation)<br>
+<audio controls src="/images/music/candid_2.mp3"></audio>
+
+[grasp](https://soundcloud.com/candid_oak/grasp) (2020) - single<br>
+<audio controls src="/images/music/candid_3.mp3"></audio>
+
+<h4 id="melodicsongs">other notable songs <a href="#categories">↩︎</a></h4>
+
+[distayne](https://soundcloud.com/distayne) - [far away](https://soundcloud.com/exobolt/far-away)
+
+an intensely nostalgic track for me. far away is a seamless combination of two electronic subgenres i love; melodic dubstep and complextro; with both flavors executed to perfection. the fluid sound design is nothing short of ear candy to me and those fills in the second drop are some of the best i've ever heard.
+
+<audio controls src="/images/music/faraway.mp3"></audio>
+
+<a href="#categories">&gt;&gt; back to category selection</a>
