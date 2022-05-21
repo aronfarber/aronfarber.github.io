@@ -30,21 +30,17 @@ media = "/media/:slug/"
 extras = "/extras/:slug/"
 
 [[menu.main]]
-name = "about"
-url = "/about/"
-weight = 1
-[[menu.main]]
 name = "projects"
 url = "/projects/"
-weight = 2
+weight = 1
 [[menu.main]]
 name = "writing"
 url = "/writing/"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "media"
 url = "/media/"
-weight = 4
+weight = 3
 
 [params]
 custom_css = ["css/theme-override.css"]
