@@ -23,22 +23,27 @@ style = "monokai"
 tabWidth = 4
 
 [permalinks]
+about = "/about/"
 projects = "/projects/:slug/"
 writing = "/writing/:slug/"
 media = "/media/:slug/"
 
 [[menu.main]]
+name = "about"
+url = "/about/"
+weight = 1
+[[menu.main]]
 name = "projects"
 url = "/projects/"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "writing"
 url = "/writing/"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "media"
 url = "/media/"
-weight = 3
+weight = 4
 
 [params]
 custom_css = ["css/theme-override.css"]
