@@ -27,6 +27,7 @@ about = "/about/"
 projects = "/projects/:slug/"
 writing = "/writing/:slug/"
 media = "/media/:slug/"
+extras = "/extras/:slug/"
 
 [[menu.main]]
 name = "about"
