@@ -8,15 +8,15 @@ if i had to name my singular favorite thing in the world, i would say, without a
 this page is meant to provide a cursory glance into my music taste and what music i like. i've sorted my favorite artists and songs into subcategories to give it some structure. i provide previews, but i implore you to stream/buy the music yourself if you enjoy anything that you hear. proceed with an open mind!
 
 <b id="categories">categories:</b>
-- <a href="#experimental">experimental</a><br>
-  - <a href="#expartists">artists</a>
-  - <a href="#expsongs">songs</a>
-- <a href="#heavy">heavy</a><br>
-  - <a href="#heavyartists">artists</a>
-  - <a href="#heavysongs">songs</a>
-- <a href="#melodic">melodic</a><br>
-  - <a href="#melodicartists">artists</a>
-  - <a href="#melodicsongs">songs</a>
+- <a href="#hof">hall of fame</a>
+- <a href="#experimental">experimental</a>
+- <a href="#dubstep">dubstep</a>
+- <a href="#melodic">melodic</a>
+- <a href="#neuro">neuro</a>
+- <a href="#downtempo">downtempo</a>
+- <a href="#funky">funky</a>
+
+<h3 id="hof">hall of fame <a href="#categories">↩︎</a></h3>
 
 <h3 id="experimental">experimental <a href="#categories">↩︎</a></h3>
 
@@ -24,7 +24,7 @@ perhaps the style of music i listen to the most is one that can be broadly defin
 
 <h4 id="expartists">artists <a href="#categories">↩︎</a></h4>
 
-**quok/куок** - [soundcloud](https://soundcloud.com/quok), [bandcamp](https://quok.bandcamp.com)
+**quok** - [soundcloud](https://soundcloud.com/quok), [bandcamp](https://quok.bandcamp.com)
 
 quok's music aligns perfectly with my sensibilities. off-kilter beats, frequent glitches and flairs of sound design, and nuanced song structures are all elements of his songs that i enjoy. his production usually isn't perfect, and oftentimes his english lyrics are rather odd. his discography contains recurring musical and lyrical motifs that persist across his various albums. in my eyes these traits are eccentric, but they only add to the character and uniqueness of his style.
 
@@ -41,7 +41,7 @@ nowadays, he mostly releases under куок, a russian rap alias that i still qu
 [lucid](https://quok.bandcamp.com/track/lucid) (2017) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
 <audio controls src="/images/music/quok_2.mp3"></audio>
 
-[дорогое развлечение](https://soundcloud.com/quok/dorogoe) (2020) - from [красность](https://quok.bandcamp.com/album/-)<br>
+[дорогое развлечение](https://soundcloud.com/quok/dorogoe) (2020) as куок - from [красность](https://quok.bandcamp.com/album/-)<br>
 <audio controls src="/images/music/quok_3.mp3"></audio>
 
 **lalanoi** - [soundcloud](https://soundcloud.com/lalanoi), [bandcamp](https://lalanoi.bandcamp.com/)
