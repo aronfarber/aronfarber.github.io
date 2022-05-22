@@ -1,5 +1,5 @@
 ---
-title: quok
+title: quok/куок
 ---
 <meta name="robots" content="noindex, nofollow, noarchive">
 
