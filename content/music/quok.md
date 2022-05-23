@@ -19,8 +19,6 @@ nowadays, he releases under куок (pronounced just like quok), a rap alias th
 
 born in 2000, i consider him to be a prodigy since many of his best songs were released during his early teens from 2014-2016. he has an incredibly expansive discography with at least ten albums between both of his aliases.
 
-my favorite quok/куок songs:
-
 [invisible friend](https://quok.bandcamp.com/track/invisible-friend-2) (2016) - from [traveller](https://quok.bandcamp.com/album/traveller)<br>
 <audio controls src="/images/music/quok_1.mp3"></audio>
 
