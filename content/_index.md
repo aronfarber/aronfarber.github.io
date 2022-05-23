@@ -6,9 +6,6 @@ description: "aron's homepage"
 
 ## aron online! (he/him)
 
-<img id="headshot" src="/images/headshot.jpg" width="300" height="300" margin-left="20px">
-
-
 i'm an engineering student at [northeastern](https://en.wikipedia.org/wiki/Northeastern_University/).
 
 thanks for visiting!
