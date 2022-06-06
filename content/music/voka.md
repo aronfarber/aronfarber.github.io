@@ -11,11 +11,11 @@ voka is a very interesting melodic producer. i don't know much about them, and m
 
 top 2 songs:
 
-2. [mirror temple](https://soundcloud.com/aesistunes/cylriel-cuffin-season-xsphere-remix) (2022) with [aesis](/music/aesis) - from [better together, vol. 3](https://soundcloud.com/wearesilkenwood/sets/btv3)<br>
-<audio controls src="/images/music/aesis_mirrortemple.mp3"></audio>
-
 1. [lumina](https://open.spotify.com/album/59zxQQkDfglCrQTKre3Dy4?highlight=spotify:track:1fY6eXxVDiAkpQCWhZRny8) (2021) - on [summit 001](https://open.spotify.com/album/59zxQQkDfglCrQTKre3Dy4?highlight=spotify:track:1fY6eXxVDiAkpQCWhZRny8) <br>
 <audio controls src="/images/music/voka_lumina.mp3"></audio>
+
+2. [mirror temple](https://soundcloud.com/wearesilkenwood/aesis-voka-mirror-temple) (2022) with [aesis](/music/aesis) - from [better together, vol. 3](https://soundcloud.com/wearesilkenwood/sets/btv3)<br>
+<audio controls src="/images/music/aesis_mirrortemple.mp3"></audio>
 
 similar artists:
 - 

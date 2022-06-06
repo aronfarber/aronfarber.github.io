@@ -11,14 +11,14 @@ aesis produced my favorite remix of the entirety of disciple's ["second biggest 
 
 top 3 songs:
 
-3. [mirror temple](https://soundcloud.com/aesistunes/cylriel-cuffin-season-xsphere-remix) (2022) with [voka](/music/voka) - from [better together, vol. 3](https://soundcloud.com/wearesilkenwood/sets/btv3)<br>
-<audio controls src="/images/music/aesis_mirrortemple.mp3"></audio>
+1. [this could be us (xsphere remix)](https://soundcloud.com/aesistunes/virtual-riot-modestep-this-could-be-us-ft-frank-zummo-xsphere-remix) (2021) - single<br>
+<audio controls src="/images/music/aesis_thiscouldbeus.mp3"></audio>
 
 2. [cuffin season (xsphere remix)](https://soundcloud.com/aesistunes/cylriel-cuffin-season-xsphere-remix) (2021) - single<br>
 <audio controls src="/images/music/aesis_cuffinseason.mp3"></audio>
 
-1. [this could be us (xsphere remix)](https://soundcloud.com/aesistunes/cylriel-cuffin-season-xsphere-remix) (2021) - single<br>
-<audio controls src="/images/music/aesis_thiscouldbeus.mp3"></audio>
+3. [mirror temple](https://soundcloud.com/wearesilkenwood/aesis-voka-mirror-temple) (2022) with [voka](/music/voka) - from [better together, vol. 3](https://soundcloud.com/wearesilkenwood/sets/btv3)<br>
+<audio controls src="/images/music/aesis_mirrortemple.mp3"></audio>
 
 similar artists:
 - 
