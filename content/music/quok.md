@@ -55,28 +55,28 @@ top 27 songs:
 <audio controls src="/images/music/quok_genesis.mp3"></audio>
 
 13. [дорогое развлечение](https://soundcloud.com/quok/dorogoe) (2020) as куок - from [красность](https://quok.bandcamp.com/album/-)<br>
-<audio controls src="/images/music/quok_Дорогоеразвлечение.mp3"></audio>
+<audio controls src="/images/music/quok_дорогоеразвлечение.mp3"></audio>
 
 14. [nintendo](https://soundcloud.com/quok/nintendo) (2014) with [influe](https://soundcloud.com/influe-music) & [effectible](https://soundcloud.com/effectible-official) - from [memories lp](https://www.discogs.com/release/14081301-Quok-Memories-LP)<br>
 <audio controls src="/images/music/quok_nintendo.mp3"></audio>
 
-15. [euphoria](https://quok.bandcamp.com/track/euphoria-feat-victor-blagoev-lev-pilsudski-vanya-zemskov) (2018) feat. [victor blagoev](https://open.spotify.com/artist/4GEXTWiSLWH4gbun3S84Vs), [lev pilsudski](https://open.spotify.com/artist/3Bv6D1D15WHAQuzqkFJBhL) & [ivan zemskov](https://open.spotify.com/artist/740lz5kjQ7WkcZRsn8wbIi) - from [krov](https://quok.bandcamp.com/album/krov)<br>
-<audio controls src="/images/music/quok_euphoria.mp3"></audio>
+15. [hello, machine](https://quok.bandcamp.com/track/hello-machine) (2018) - from [krov](https://quok.bandcamp.com/album/krov)<br>
+<audio controls src="/images/music/quok_hellomachine.mp3"></audio>
 
-16. [look around](https://quok.bandcamp.com/track/look-around-feat-flukeluke) (2017) with [flukeluke](/music/flukeluke) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
-<audio controls src="/images/music/quok_lookaround.mp3"></audio>
+16. [following mob](https://quok.bandcamp.com/track/following-mob) (2017) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
+<audio controls src="/images/music/quok_followingmob.mp3"></audio>
 
 17. [lie](https://quok.bandcamp.com/track/lie) (2016) - from [traveller](https://quok.bandcamp.com/album/traveller)<br>
 <audio controls src="/images/music/quok_lie.mp3"></audio>
 
-18. [hello, machine](https://quok.bandcamp.com/track/hello-machine) (2018) - from [krov](https://quok.bandcamp.com/album/krov)<br>
-<audio controls src="/images/music/quok_hellomachine.mp3"></audio>
+18. [euphoria](https://quok.bandcamp.com/track/euphoria-feat-victor-blagoev-lev-pilsudski-vanya-zemskov) (2018) feat. [victor blagoev](https://open.spotify.com/artist/4GEXTWiSLWH4gbun3S84Vs), [lev pilsudski](https://open.spotify.com/artist/3Bv6D1D15WHAQuzqkFJBhL) & [ivan zemskov](https://open.spotify.com/artist/740lz5kjQ7WkcZRsn8wbIi) - from [krov](https://quok.bandcamp.com/album/krov)<br>
+<audio controls src="/images/music/quok_euphoria.mp3"></audio>
 
 19. [love](https://open.spotify.com/track/5yojSaTRw6EMJYCNeEhJZi?si=4e2df4989ede4857) (2021) as куок - from [love, blood & diamonds](https://open.spotify.com/album/5Mk0ltONsEofj2QNpkGvFr)<br>
 <audio controls src="/images/music/quok_love.mp3"></audio>
 
-20. [following mob](https://quok.bandcamp.com/track/following-mob) (2017) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
-<audio controls src="/images/music/quok_followingmob.mp3"></audio>
+20. [воздух](https://www.youtube.com/watch?v=pWmOlFLNFJQ) (2021) as куок - single<br>
+<audio controls src="/images/music/quok_воздух.mp3"></audio>
 
 21. [octoroon](https://quok.bandcamp.com/track/octoroon-feat-jan-amit) (2017) with [jan amit](/music/jan-amit/) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
 <audio controls src="/images/music/quok_octoroon.mp3"></audio>
@@ -84,20 +84,26 @@ top 27 songs:
 22. [blood](https://open.spotify.com/track/4TsOG5pGhJkVsLWtuJnCII?si=41023396863640fc) (2021) as куок - from [love, blood & diamonds](https://open.spotify.com/album/5Mk0ltONsEofj2QNpkGvFr)<br>
 <audio controls src="/images/music/quok_blood.mp3"></audio>
 
-23. [воздух](https://www.youtube.com/watch?v=pWmOlFLNFJQ) (2021) as куок - single<br>
-<audio controls src="/images/music/quok_воздух.mp3"></audio>
+23. [look around](https://quok.bandcamp.com/track/look-around-feat-flukeluke) (2017) with [flukeluke](/music/flukeluke) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
+<audio controls src="/images/music/quok_lookaround.mp3"></audio>
 
 24. [crazy](https://quok.bandcamp.com/track/crazy-feat-gabi) (2019) feat. gabi - from [genesis](https://quok.bandcamp.com/album/genesis)<br>
 <audio controls src="/images/music/quok_crazy.mp3"></audio>
 
-25. [heart](https://acidpop.bandcamp.com/track/heart) (2015) - from [imaginary places](https://acidpop.bandcamp.com/album/imaginary-places)<br>
-<audio controls src="/images/music/quok_heart.mp3"></audio>
+25. [птица](https://quok.bandcamp.com/track/tribute) (2020) as куок - from [красность](https://quok.bandcamp.com/album/-)<br>
+<audio controls src="/images/music/quok_птица.mp3"></audio>
 
 26. [citadel](https://quok.bandcamp.com/track/citadel) (2017) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
 <audio controls src="/images/music/quok_citadel.mp3"></audio>
 
-27. [aqueous](https://soundcloud.com/culprate/aqueous) (2018) with [culprate](/music/culprate) - from [unity project, pt. 3](https://culprate.bandcamp.com/album/unity-project-pt-3)
+27. [aqueous](https://soundcloud.com/culprate/aqueous) (2018) with [culprate](/music/culprate) - from [unity project, pt. 3](https://culprate.bandcamp.com/album/unity-project-pt-3)<br>
 <audio controls src="/images/music/culprate_aqueous.mp3"></audio>
+
+28. [patchwork](https://quok.bandcamp.com/track/patchwork) (2016) - from [traveller](https://quok.bandcamp.com/album/traveller)<br>
+<audio controls src="/images/music/quok_patchwork.mp3"></audio>
+
+29. [heart](https://acidpop.bandcamp.com/track/heart) (2015) - from [imaginary places](https://acidpop.bandcamp.com/album/imaginary-places)<br>
+<audio controls src="/images/music/quok_heart.mp3"></audio>
 
 similar artists:
 - [pure shade](/music/pure-shade/)

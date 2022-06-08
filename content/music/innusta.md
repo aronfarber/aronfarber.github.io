@@ -9,7 +9,7 @@ stream/buy: [soundcloud](https://soundcloud.com/innusta), [bandcamp](https://inn
 
 <figure>
   <img src="/images/music/artistimg/innusta.jpg" width="300" height="300" margin-left="20px">
-  <figcaption text-align="center">innusta <a href="https://soundcloud.com/innusta">(image source: soundcloud)</a></figcaption>
+  <figcaption text-align="center"><a href="https://soundcloud.com/innusta">(image source: soundcloud)</a></figcaption>
 </figure>
 
 top 5 songs:
