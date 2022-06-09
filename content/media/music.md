@@ -24,7 +24,7 @@ each artist here has their own separate page on this site that you can access by
 
 perhaps the style of music i listen to the most is one that can be broadly defined as "experimental". anything with unorthodox sounds or structure could feasibly fit into this category, but in practice it's usually just music with outlandish sound design or complex rhythms. i enjoy music that i structurally can't comprehend. i tend to dance with my hands and face rather than my body, which is conducive to more easily emulating off-beat melodies and rolling sounds. this is also why overly growly or fluttery sound design tends to resonate with me.
 
-<h4 id="expartists">artists <a href="#categories">↩︎</a></h4>
+<h4 id="expartists">artists <a href="#experimental">↩︎</a></h4>
 
 [**quok/куок**](/music/quok) - [soundcloud](https://soundcloud.com/quok), [bandcamp](https://quok.bandcamp.com)
 
@@ -33,7 +33,7 @@ quok's music aligns perfectly with my sensibilities. off-kilter beats, frequent 
 nowadays, he mostly releases under куок, a russian rap alias that i still quite enjoy due to the presence of his production. he seems to be relatively popular in russia as a rapper, and he still maintains a decent following in the soundcloud scene from his days as an electronic artist. however, i do often yearn for another instrumental quok album, since his last one under the alias was [genesis](https://quok.bandcamp.com/album/genesis), in 2019.
 
 <figure>
-  <img id="quok" src="/images/music/artistimg/artistimg/quok.png" width="300" height="300" margin-left="20px">
+  <img id="quok" src="/images/music/artistimg/quok.png" width="300" height="300" margin-left="20px">
   <figcaption text-align="center">the amazing rapper/producer, quok. <a href="https://hypestar.ru/person/kuok/">(image source)</a></figcaption>
 </figure>
 
@@ -125,11 +125,11 @@ aleph is a producer who often uses [modular synthesis](https://en.wikipedia.org/
 
 <a href="#categories">&gt;&gt; back to category selection</a>
 
-<h3 id="heavy">heavy</h3>
+<h3 id="heavy">heavy <a href="#categories">↩︎</a></h3>
 
 "heavy" is a self-explanatory label for music. bangers, slappers, hits, whatever your preferred terminology may be. in my case, it usually means [dubstep](https://en.wikipedia.org/wiki/Dubstep). dubstep has a pretty bad rap among people who don't listen to it. it often gets ridiculed by mainstream audiences stemming from its frequent use as a comedic break in the early 2010s, during the height of [skrillex](https://en.wikipedia.org/wiki/Skrillex)'s popularity (an artist whose talents i acknowledge but don't personally enjoy very much). however, dubstep is an unfathomably diverse and expansive genre, and it has improved significantly within the past two or three years. i've personally felt insecure about my enjoyment of the genre, and i hope that if you've stumbled across these songs as someone unfamiliar with the genre, that you keep an open mind.
 
-<h4 id="heavyartists">artists <a href="#categories">↩︎</a></h4>
+<h4 id="heavyartists">artists <a href="#heavy">↩︎</a></h4>
 
 [**sharks**](/music/sharks) - [soundcloud](https://soundcloud.com/sharkstunes), [youtube (cool music videos!)](https://www.youtube.com/sharkstunes)
 
@@ -187,7 +187,7 @@ cursory recommendations:
 [task manager](https://soundcloud.com/malignant_music/hukae-task-manager) (2022) - from [arcane ep](https://soundcloud.com/hukae/sets/arcane-ep-malignant)<br>
 <audio controls src="/images/music/hukae_taskmanager.mp3"></audio>
 
-<h4 id="heavysongs">other notable songs <a href="#categories">↩︎</a></h4>
+<h4 id="heavysongs">other notable songs <a href="#heavy">↩︎</a></h4>
 
 [kero](/music/kero) - [rainforest](https://soundcloud.com/rushdownrecs/kero-rainforest)
 
@@ -197,11 +197,11 @@ for me, stuttery delivery in dubstep is a guilty pleasure. nothing feels more mo
 
 <a href="#categories">&gt;&gt; back to category selection</a>
 
-<h3 id="melodic">melodic</h3>
+<h3 id="melodic">melodic <a href="#categories">↩︎</a></h3>
 
 in my case, in the realm of electronic music, "melodic" can still often mean impactful and bass-heavy. oftentimes melodic edm tracks have some poppy element, such as a vocalist or a repetitive hook. i also tend to enjoy [future bass](https://en.wikipedia.org/wiki/Future_bass), which is probably the electronic subgenre with the most mainstream appeal due to its popularization by acts like [the chainsmokers]. don't worry though, i'm not generally into commercialized future bass and promise to put some more interesting melodic music on show in this list. 
 
-<h4 id="melodicartists">artists <a href="#categories">↩︎</a></h4>
+<h4 id="melodicartists">artists <a href="#melodic">↩︎</a></h4>
 
 [**jkuch**](/music/jkuch) - [soundcloud](https://soundcloud.com/jkuch), [bandcamp](https://jkuch.bandcamp.com/)
 
@@ -281,7 +281,7 @@ cursory recommendations:
 [bass music is hard yo](https://soundcloud.com/mameyudoufu/2nd-album-boot-loader-xfd#t=3:42) (2021) - from [boot loader](https://diverse.direct/megarex/mrx-101/)<br>
 <audio controls src="/images/music/mameyudoufu_bassmusicishardyo.mp3"></audio>
 
-<h4 id="melodicsongs">other notable songs <a href="#categories">↩︎</a></h4>
+<h4 id="melodicsongs">other notable songs <a href="#melodic">↩︎</a></h4>
 
 [distayne](/music/distayne) - [far away](https://soundcloud.com/exobolt/far-away)
 
