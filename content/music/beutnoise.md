@@ -49,11 +49,20 @@ beutnoise, hailing from cuba, hasn't been releasing music for very long. his ear
 11. [gelada](https://soundcloud.com/discipleroundtable/gelada) (2022) - from [embrace ep](https://soundcloud.com/discipleroundtable/sets/embraceep)<br>
 <audio controls src="/images/music/beutnoise_gelada.mp3"></audio>
 
-12. [jungle heat](https://soundcloud.com/discipleroundtable/jungleheat) (2020) with [seed](https://soundcloud.com/seeddubz) - from [kong ep](https://soundcloud.com/beutnoise/sets/beutnoise-kong-ep-out-on)<br>
+12. [cyber liana](https://soundcloud.com/discipleroundtable/cyberliana) (2022) with [nextars](/music/nextars) - from [panic() ep](https://soundcloud.com/discipleroundtable/sets/panicep)<br>
+<audio controls src="/images/music/nextars_cyberliana.mp3"></audio>
+
+13. [jungle heat](https://soundcloud.com/discipleroundtable/jungleheat) (2020) with [seed](https://soundcloud.com/seeddubz) - from [kong ep](https://soundcloud.com/beutnoise/sets/beutnoise-kong-ep-out-on)<br>
 <audio controls src="/images/music/beutnoise_jungleheat.mp3"></audio>
 
-13. [monke rave](https://soundcloud.com/discipleroundtable/monkerave) (2021) - from [knights of the round table vol. 4](https://soundcloud.com/discipleroundtable/sets/knights4)<br>
+14. [monke rave](https://soundcloud.com/discipleroundtable/monkerave) (2021) - from [knights of the round table vol. 4](https://soundcloud.com/discipleroundtable/sets/knights4)<br>
 <audio controls src="/images/music/beutnoise_monkerave.mp3"></audio>
+
+15. [ravage](https://soundcloud.com/discipleroundtable/ravage) (2022) - from [know the name ep](https://soundcloud.com/discipleroundtable/sets/knowthenameep)<br>
+<audio controls src="/images/music/dyatic_ravage.mp3"></audio>
+
+16. [neural link](https://soundcloud.com/discipleroundtable/neurallink) (2020) with [levi walsh](https://soundcloud.com/leviwalsh) - from [round table reinforcements vol. 1](https://soundcloud.com/discipleroundtable/sets/reinforcements1)<br>
+<audio controls src="/images/music/beutnoise_neurallink.mp3"></audio>
 
 similar artists:
 - [dyatic](/music/dyatic)

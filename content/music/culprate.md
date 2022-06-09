@@ -26,7 +26,7 @@ top 23 songs:
 <audio controls src="/images/music/culprate_yin.mp3"></audio>
 
 2. [poison](https://soundcloud.com/culprate/culprate-dexcell-poison) (2018) with [dexcell](https://soundcloud.com/dexcelldnb) - from [unity project, pt. 4](https://culprate.bandcamp.com/album/unity-project-pt-4)<br>
-<audio controls src="/images/music/culprate_florn.mp3"></audio>
+<audio controls src="/images/music/culprate_poison.mp3"></audio>
 
 3. [relucent](https://soundcloud.com/culprate/relucent) (2014) with [zes](https://soundcloud.com/zesmusic) - from [deliverance](https://culprate.bandcamp.com/album/deliverance)<br>
 <audio controls src="/images/music/culprate_relucent.mp3"></audio>
@@ -52,13 +52,13 @@ top 23 songs:
 10. [two](https://soundcloud.com/culprate/two) (2012) - from [nightmares in reality](https://soundcloud.com/culprate/sets/nightmares-in-reality)<br>
 <audio controls src="/images/music/culprate_two.mp3"></audio>
 
-11. [impulse](https://soundcloud.com/culprate/5-culprate-au5-impulse) (2017) with [au5](/music/au5) - from [unity project, pt. 2](https://culprate.bandcamp.com/album/unity-project-pt-2)
+11. [impulse](https://soundcloud.com/culprate/5-culprate-au5-impulse) (2017) with [au5](/music/au5) - from [unity project, pt. 2](https://culprate.bandcamp.com/album/unity-project-pt-2)<br>
 <audio controls src="/images/music/culprate_aqueous.mp3"></audio>
 
-12. [aurora](https://soundcloud.com/culprate/aurora) (2018) with [bloom](/music/bloom) - from [unity project, pt. 3](https://culprate.bandcamp.com/album/unity-project-pt-3)
+12. [aurora](https://soundcloud.com/culprate/aurora) (2018) with [bloom](/music/bloom) - from [unity project, pt. 3](https://culprate.bandcamp.com/album/unity-project-pt-3)<br>
 <audio controls src="/images/music/culprate_aurora.mp3"></audio>
 
-13. [aqueous](https://soundcloud.com/culprate/aqueous) (2018) with [quok](/music/quok) - from [unity project, pt. 3](https://culprate.bandcamp.com/album/unity-project-pt-3)
+13. [aqueous](https://soundcloud.com/culprate/aqueous) (2018) with [quok](/music/quok) - from [unity project, pt. 3](https://culprate.bandcamp.com/album/unity-project-pt-3)<br>
 <audio controls src="/images/music/culprate_aqueous.mp3"></audio>
 
 14. [mechanic heartbeat](https://soundcloud.com/culprate/aqueous) (2018) with [keota](https://soundcloud.com/keota-us) & [sophie meiers](https://soundcloud.com/sophie-meiers) - from [unity project, pt. 3](https://culprate.bandcamp.com/album/unity-project-pt-3)
@@ -67,7 +67,7 @@ top 23 songs:
 15. the psychology of james berland (2022) - from αριθμός τέσσερα<br>
 <audio controls src="/images/music/culprate_thepsychologyofjamesberland.mp3"></audio>
 
-16. [inside](https://soundcloud.com/culprate/inside) (2018) - from [others](https://inspected.bandcamp.com/album/others)
+16. [inside](https://soundcloud.com/culprate/inside) (2018) - from [others](https://inspected.bandcamp.com/album/others)<br>
 <audio controls src="/images/music/culprate_inside.mp3"></audio>
 
 17. [whispers, pt. 1](https://soundcloud.com/culprate/whisperspart1) (2014) - from [deliverance](https://culprate.bandcamp.com/album/deliverance)<br>
