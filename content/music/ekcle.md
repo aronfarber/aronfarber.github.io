@@ -8,7 +8,7 @@ years active: 2016-2020<br>
 stream/buy: [soundcloud](https://soundcloud.com/ekclemusic), [bandcamp](https://ekclemusic.bandcamp.com/)
 
 <figure>
-  <img id="ekcle" src="/images/music/ekcle.png" width="300" height="300" margin-left="20px">
+  <img id="ekcle" src="/images/music/artistimg/ekcle.png" width="300" height="300" margin-left="20px">
   <figcaption text-align="center">ekcle before they split. members are <a href="https://soundcloud.com/davidgothammusic">david gotham (left)</a> and <a href="https://soundcloud.com/tutarapeak">tutara peak (right)</a>. <a href="https://soundcloud.com/ekclemusic">(image source: soundcloud)</a></figcaption>
 </figure>
 
@@ -17,25 +17,25 @@ no producers were able to meld the realms of synthetic and organic sound as well
 in 2020, ekcle announced that they would be splitting, thereby ending the project indefinitely. the two went on to start their own solo projects ([tutara peak](https://soundcloud.com/tutarapeak) and [david gotham](https://soundcloud.com/davidgothammusic)), but i haven't enjoyed either of their individual outputs nearly as much as their efforts under ekcle. at least this way, they have cemented an incredibly consistent catalog that will maintain a legendary status within electronic music.
 
 1. [moonstone](https://soundcloud.com/inspected/moonstone-1) (2019) - from [yoja](https://soundcloud.com/inspected/sets/ekcle-yoja)<br>
-<audio controls src="/images/music/ekcle_2.mp3"></audio>
+<audio controls src="/images/music/ekcle_moonstone.mp3"></audio>
 
 2. [treading the floors of the sky](https://soundcloud.com/ekclemusic/treading-the-floors-of-the-sky) (2018) with [owsey](https://soundcloud.com/owsey) - single<br>
-<audio controls src="/images/music/ekcle_1.mp3"></audio>
+<audio controls src="/images/music/ekcle_treadingthefloorsofthesky.mp3"></audio>
 
 3. [crafted in ice](https://soundcloud.com/inspected/crafted-in-ice-1) (2019) - from [yoja](https://soundcloud.com/inspected/sets/ekcle-yoja)<br>
-<audio controls src="/images/music/ekcle_2.mp3"></audio>
+<audio controls src="/images/music/ekcle_craftedinice.mp3"></audio>
 
 4. [clandestine](https://soundcloud.com/inspected/clandestine-1) (2019) - from [yoja](https://soundcloud.com/inspected/sets/ekcle-yoja)<br>
-<audio controls src="/images/music/ekcle_2.mp3"></audio>
+<audio controls src="/images/music/ekcle_clandestine.mp3"></audio>
 
 5. [within the palms of a god](https://soundcloud.com/inspected/within-the-palms-of-a-god-1) (2019) - from [yoja](https://soundcloud.com/inspected/sets/ekcle-yoja)<br>
-<audio controls src="/images/music/ekcle_2.mp3"></audio>
+<audio controls src="/images/music/ekcle_withinthepalmsofagod.mp3"></audio>
 
 6. [gloom.8](https://soundcloud.com/aetheraudio/aether-ekcle-gloom8-2) (2017) with [aether](/music/aether) - from [nexus](https://aetheraudio.bandcamp.com/album/nexus)<br>
 <audio controls src="/images/music/aether_gloom8.mp3"></audio>
 
 7. [jindigo](https://soundcloud.com/ekclemusic/jindigo) (2019) - single<br>
-<audio controls src="/images/music/ekcle_2.mp3"></audio>
+<audio controls src="/images/music/ekcle_jindigo.mp3"></audio>
 
 8. [the impulsive state](https://soundcloud.com/ekclemusic/the-impulsive-state) (2017) - from [deshoda](https://soundcloud.com/ekclemusic/sets/deshoda)<br>
 <audio controls src="/images/music/ekcle_theimpulsivestate.mp3"></audio>
