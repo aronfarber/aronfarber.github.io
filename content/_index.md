@@ -6,7 +6,7 @@ description: "aron's homepage"
 
 ## aron online! (he/him)
 
-i'm an engineering student at [northeastern](https://en.wikipedia.org/wiki/Northeastern_University/).
+i'm an engineering student at [northeastern](https://en.wikipedia.org/wiki/Northeastern_University).
 
 thanks for visiting!
 
