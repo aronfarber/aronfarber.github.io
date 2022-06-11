@@ -16,6 +16,8 @@ the producer who completely revolutionized the genre of dubstep for me. the oppo
 
 beutnoise, hailing from cuba, hasn't been releasing music for very long. his early music was very hip-hop influenced, a quality which has propagated throughout his newer music in the form of vocal sampling. his catalog is unbelievably consistent, and i have no doubt that he will eventually go down in history as one of the greatest modern dubstep producers.
 
+top 16 songs:
+
 1. [baboon](https://soundcloud.com/malignant_music/beutnoise-baboon) (2021) - from [malignant vol.2](https://soundcloud.com/malignant_music/sets/malignant-vol2)<br>
 <audio controls src="/images/music/beutnoise_baboon.mp3"></audio>
 
@@ -58,7 +60,7 @@ beutnoise, hailing from cuba, hasn't been releasing music for very long. his ear
 14. [monke rave](https://soundcloud.com/discipleroundtable/monkerave) (2021) - from [knights of the round table vol. 4](https://soundcloud.com/discipleroundtable/sets/knights4)<br>
 <audio controls src="/images/music/beutnoise_monkerave.mp3"></audio>
 
-15. [ravage](https://soundcloud.com/discipleroundtable/ravage) (2022) - from [know the name ep](https://soundcloud.com/discipleroundtable/sets/knowthenameep)<br>
+15. [ravage](https://soundcloud.com/discipleroundtable/ravage) (2022) with [dyatic](/music/dyatic) - from [know the name ep](https://soundcloud.com/discipleroundtable/sets/knowthenameep)<br>
 <audio controls src="/images/music/dyatic_ravage.mp3"></audio>
 
 16. [neural link](https://soundcloud.com/discipleroundtable/neurallink) (2020) with [levi walsh](https://soundcloud.com/leviwalsh) - from [round table reinforcements vol. 1](https://soundcloud.com/discipleroundtable/sets/reinforcements1)<br>

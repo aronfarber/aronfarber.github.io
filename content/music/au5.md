@@ -42,7 +42,7 @@ top 21 songs:
 8. [guardians](https://soundcloud.com/au5/au5-guardians-feat-fiora) (2015) feat. [fiora](https://soundcloud.com/fiora) - from [monstercat 024 - vanguard](https://soundcloud.com/monstercat/sets/monstercat-024-vanguard)<br>
 <audio controls src="/images/music/au5_guardians.mp3"></audio>
 
-9. [piece of me (au5 remix)](https://soundcloud.com/gryffinofficial/gryffin-piece-of-me-au5-remix) (2022) [original](https://soundcloud.com/gryffinofficial/gryffin-lova-piece-of-me) by [gryffin](https://soundcloud.com/gryffinofficial) feat. [lova](https://soundcloud.com/lova44785) - single<br>
+9. [piece of me (au5 remix)](https://soundcloud.com/gryffinofficial/gryffin-piece-of-me-au5-remix) (2021) [original](https://soundcloud.com/gryffinofficial/gryffin-lova-piece-of-me) by [gryffin](https://soundcloud.com/gryffinofficial) feat. [lova](https://soundcloud.com/lova44785) - single<br>
 <audio controls src="/images/music/au5_pieceofme.mp3"></audio>
 
 10. [ocean (au5 remix)](https://soundcloud.com/au5/seven-lions-jason-ross-feat-jonathan-mendelsohn-ocean-au5-remix) (2018) [original](https://soundcloud.com/seven-lions/seven-lions-jason-ross-ocean-feat-jonathan-mendelsohn-1) by [seven lions](https://soundcloud.com/seven-lions) & [jason ross](https://soundcloud.com/jasonrossofficial) feat. [jonathan mendelsohn](https://soundcloud.com/jonathanmendelsohn) - from [ocean (remixes)](https://soundcloud.com/seven-lions/sets/ocean-remixes)<br>
@@ -60,8 +60,8 @@ top 21 songs:
 14. [dragonfly](https://soundcloud.com/au5/4-au5-dragonfly-ft-evoke-dancing-astronaut-premiere) (2019) feat. [evoke](https://soundcloud.com/aldengroves) - from [divinorum](https://au5music.bandcamp.com/album/divinorum-lp-2)<br>
 <audio controls src="/images/music/au5_dragonfly.mp3"></audio>
 
-15. [answers (extended mix)](https://open.spotify.com/album/6KE4JWmPGAOGvmcjwHSsIs) (2020) - single<br>
-<audio controls src="/images/music/au5_answers.mp3"></audio>
+15. [stargate](https://soundcloud.com/au5/stargate) (2019) with [tasha baxter](https://soundcloud.com/tashabaxtersa) - from [divinorum](https://au5music.bandcamp.com/album/divinorum-lp-2)<br>
+<audio controls src="/images/music/au5_stargate.mp3"></audio>
 
 16. [only in a dream](https://soundcloud.com/monstercat/au5-nytrix-only-in-a-dream) (2018) with [nytrix](https://soundcloud.com/nytrixmusic) - from [monstercat uncaged vol. 6](https://soundcloud.com/monstercat/sets/monstercat-uncaged-vol-6)<br>
 <audio controls src="/images/music/au5_onlyinadream.mp3"></audio>
@@ -69,10 +69,10 @@ top 21 songs:
 17. [the journey](https://soundcloud.com/monstercat/au5-the-journey-feat-trove) (2018) feat. [trove](https://soundcloud.com/listentotroves) - from [monstercat instinct vol. 2](https://soundcloud.com/monstercat/sets/monstercat-instinct-vol-2)<br>
 <audio controls src="/images/music/au5_thejourney.mp3"></audio>
 
-18. [always in a nightmare](https://soundcloud.com/monstercat/au5-nytrix-always-in-a-nightmare) (2020) with [nytrix](https://soundcloud.com/nytrixmusic) - from [monstercat uncaged vol. 9](https://soundcloud.com/monstercat/sets/monstercat-uncaged-vol-9)<br>
-<audio controls src="/images/music/au5_alwaysinanightmare.mp3"></audio>
+18. [answers (extended mix)](https://open.spotify.com/album/6KE4JWmPGAOGvmcjwHSsIs) (2020) - single<br>
+<audio controls src="/images/music/au5_answers.mp3"></audio>
 
-19. [melt](https://soundcloud.com/au5/au5-jeto-cristina-soto-melt-original) (2020) with [jeto](/music/jeto) & [cristina soto](https://soundcloud.com/thesotosinger) - from [divinorum](https://au5music.bandcamp.com/album/divinorum-lp-2)<br>
+19. [melt](https://soundcloud.com/au5/au5-jeto-cristina-soto-melt-original) (2020) with [jeto](/music/jeto) & [cristina soto](https://soundcloud.com/thesotosinger) - single<br>
 <audio controls src="/images/music/au5_melt.mp3"></audio>
 
 20. [smoke](https://soundcloud.com/officialfractal/au5-fractal-smoke) (2013) with [fractal](/music/fractal) - from [secret weapon ep](https://soundcloud.com/au5/sets/secret-weapon-ep)<br>
@@ -80,6 +80,9 @@ top 21 songs:
 
 21. [for you](https://soundcloud.com/au5/for-you) (2017) - single<br>
 <audio controls src="/images/music/au5_foryou.mp3"></audio>
+
+22. [always in a nightmare](https://soundcloud.com/monstercat/au5-nytrix-always-in-a-nightmare) (2020) with [nytrix](https://soundcloud.com/nytrixmusic) - from [monstercat uncaged vol. 9](https://soundcloud.com/monstercat/sets/monstercat-uncaged-vol-9)<br>
+<audio controls src="/images/music/au5_alwaysinanightmare.mp3"></audio>
 
 similar artists:
 - [aurophase](/music/aurophase)
