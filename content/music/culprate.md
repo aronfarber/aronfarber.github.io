@@ -62,8 +62,7 @@ top 23 songs:
 <audio controls src="/images/music/culprate_mechanicheartbeat.mp3"></audio>
 
 14. [within](https://soundcloud.com/culprate/within) (2014) - from [deliverance](https://culprate.bandcamp.com/album/deliverance)<br>
-<audio controls src="/images/music/culprate_within.mp3"></audio>[whispers, pt. 1](https://soundcloud.com/culprate/whisperspart1) (2014) - from [deliverance](https://culprate.bandcamp.com/album/deliverance)<br>
-<audio controls src="/images/music/culprate_whisperspt1.mp3"></audio>
+<audio controls src="/images/music/culprate_within.mp3"></audio>
 
 15. [impulse](https://soundcloud.com/culprate/5-culprate-au5-impulse) (2017) with [au5](/music/au5) - from [unity project, pt. 2](https://culprate.bandcamp.com/album/unity-project-pt-2)<br>
 <audio controls src="/images/music/culprate_aqueous.mp3"></audio>
