@@ -16,7 +16,7 @@ quok's music aligns perfectly with my sensibilities. off-kilter beats, frequent 
 
 nowadays, he mostly releases as куок, a russian rap alias that i still quite enjoy due to the presence of his production. he seems to be relatively popular in russia as a rapper, and he still maintains a decent following in the soundcloud scene from his days as an electronic artist. even so, i still often yearn for another instrumental quok album, since his last one under the alias was [genesis](https://quok.bandcamp.com/album/genesis), in 2019.
 
-top 27 songs:
+top 29 songs:
 
 1. [lucid](https://quok.bandcamp.com/track/lucid) (2017) - from [intervals](https://quok.bandcamp.com/album/intervals)<br>
 <audio controls src="/images/music/quok_lucid.mp3"></audio>
