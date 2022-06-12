@@ -15,7 +15,7 @@ top 3 songs:
 2. [crescent](https://soundcloud.com/attackthemusic/criminal-code-paida-crescent) (2022) with [paida](https://soundcloud.com/galaxygirlpaida) - single<br>
 <audio controls src="/images/music/criminal_crescent.mp3"></audio>
 
-3. [too horny to live, too dead to cum](https://soundcloud.com/jkuch/tempo-feat-patches) (2022) - from [hitech frontier](https://ryberneteq.booth.pm/items/3814955)<br>
+3. [too horny to live, too dead to cum](https://soundcloud.com/criminalcodebass/too-horny-to-live-too-dead-to-cum-1) (2022) - from [hitech frontier](https://ryberneteq.booth.pm/items/3814955)<br>
 <audio controls src="/images/music/criminal_toohornytolivetoodeadtocum.mp3"></audio>
 
 similar artists:
