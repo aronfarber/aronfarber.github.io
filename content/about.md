@@ -5,8 +5,6 @@ description: "about me and this website!"
 ---
 <meta name="robots" content="noindex, nofollow, noarchive">
 
-<img id="headshot" src="/images/headshot.jpg" width="300" height="300" margin-left="20px" align>
-
 me:
 - i'm 20 and i use he/him pronouns.
 - i'm currently an environmental engineering student at [northeastern](https://en.wikipedia.org/wiki/Northeastern_University).
