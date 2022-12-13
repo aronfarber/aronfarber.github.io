@@ -22,26 +22,7 @@ noClasses = true
 style = "monokai"
 tabWidth = 4
 
-[permalinks]
-About = "/about/"
-Dumb = "/projects/:slug/"
-writing = "/writing/:slug/"
-media = "/media/:slug/"
-
-[[menu.main]]
-name = "I Like"
-url = "/projects/"
-weight = 1
-[[menu.main]]
-name = "writing"
-url = "/writing/"
-weight = 2
-[[menu.main]]
-name = "media"
-url = "/media/"
-weight = 3
-
 [params]
 custom_css = ["css/theme-override.css"]
-description = "Aron"
-footer = "[My web philosophy](/web-philosophy/) | [Song recommendation](https://soundcloud.com/sebastianvydra/nothingtofear)"
+description = "Aron's site"
+footer = "Thanks for visiting! | [Song recommendation](https://soundcloud.com/sebastianvydra/nothingtofear)"
