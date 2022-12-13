@@ -76,7 +76,6 @@ body {
 
 h1 {
   line-height: 1.5em;
-  text-transform: lowercase;
 }
 
 /* Table of Contents, if wanted
@@ -110,7 +109,6 @@ output:
 .menu, .article-meta, footer { text-align: center; }
 .title { 
     font-size: 1.1em;
-    text-transform: lowercase;
 }
 footer a { text-decoration: none; }
 
@@ -178,8 +176,6 @@ img, iframe, video, figure, figcaption {
 .content-wrapper li + li {
   margin: 7px 0;
 }
-  
-}
 
 main {
   hyphens: none;
@@ -189,9 +185,7 @@ main {
   line-height: 1.7em;
   hyphens: none;
   display: block;
-  font-size: 1.1em;
-}
-main a {
+  font-size: 1em;
 }
 
 blockquote {
@@ -203,19 +197,19 @@ blockquote {
 .content-wrapper {
   padding: 0px 12px 0px 12px;
 }
-#headshot {
+#avatar {
   min-width: 40px;
-  float: right;
-  padding: 10px;
+  float: left;
   display: block;
+  height: 100px;
 }
 
 /* Small devices, phones */
 @media only screen and (min-width : 480px) {
-  #headshot {
+  #avatar {
     min-width: 40px;
-    float: right;
-    padding: 10px 10px 10px 20px;
+    float: left;
+    padding: 0px 10px 10px 10px;
     display: block;
   }
 }
