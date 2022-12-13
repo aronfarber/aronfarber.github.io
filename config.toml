@@ -4,7 +4,7 @@ footnotereturnlinkcontents = "↩"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 pluralizeListTitles = false
-title = "aron online!"
+title = "Aron"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -23,14 +23,13 @@ style = "monokai"
 tabWidth = 4
 
 [permalinks]
-about = "/about/"
-projects = "/projects/:slug/"
+About = "/about/"
+Dumb = "/projects/:slug/"
 writing = "/writing/:slug/"
 media = "/media/:slug/"
-music = "/music/:slug/"
 
 [[menu.main]]
-name = "projects"
+name = "I Like"
 url = "/projects/"
 weight = 1
 [[menu.main]]
@@ -44,5 +43,5 @@ weight = 3
 
 [params]
 custom_css = ["css/theme-override.css"]
-description = "aron online!"
-footer = "[privacy policy](/privacy/) | [song recommendation](https://soundcloud.com/sebastianvydra/nothingtofear)"
+description = "Aron"
+footer = "[My web philosophy](/web-philosophy/) | [Song recommendation](https://soundcloud.com/sebastianvydra/nothingtofear)"
