@@ -1,17 +1,20 @@
 ---
-title: home
-description: "aron's homepage"
+title: Home
 ---
 <meta name="robots" content="noindex, nofollow, noarchive">
 
-## aron online! (he/him)
+<p>
+<img id="avatar" style="vertical-align: middle" src="/images/avatar.png"/>
+</p>
 
-i'm an engineering student at [northeastern](https://en.wikipedia.org/wiki/Northeastern_University).
+I'm [Aron](/name).
 
-thanks for visiting!
+Seemingly the first one in [NYC](/nyc) who wanted to make a [website](/website).
 
-things you may read here:
-- a few tidbits [about me and this website](/about).
-- information about [academic and personal projects](/projects) i've worked on.
-- some [creative writing pieces](/writing) about culture or other aspects of life.
-- a log of [media i've consumed](/media), including books i've read and my favorite music.
+I like [music](/music) a lot.
+
+I ride my [bicycle](/bicycling) everywhere.
+
+I haven't [accomplished](/accomplishments) much but there's still a page for it.
+
+I don't place much emphasis on [identity](/identity) but you can still read about it if you're interested for whatever reason.
