@@ -20,3 +20,5 @@ I haven't [accomplished](/accomplishments) much but there's still a page for it.
 I'm not too focused on [identity](/identity) in daily life, but you can still read about it if you're interested for whatever reason.
 
 If you want to find me elsewhere, [you probably won't](/elsewhere).
+
+Thanks for visiting!
