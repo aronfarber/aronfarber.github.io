@@ -19,3 +19,7 @@ However, I'm not above bragging a bit about what little I've managed to do so fa
 - I have one of the largest independent archives of [electronic music](/music) from Soundcloud. It's over 10 terabytes of music. Music that not many people care about besides me. 
 
 - I also know all of the flags and capitals of the world by memory. At one point I was really good at Geoguessr but the meta moved so quickly that after I stopped playing for a year my skill level was superceded by the pros. Now I just [watch the pros](/media) instead of playing.
+
+It's a shameful list of accomplishments from a broader societal perspective. I haven't "improved the world" significantly or contributed much in the way of innovation or entrepreneurship. 
+
+Whatever.
