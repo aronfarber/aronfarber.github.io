@@ -2,7 +2,11 @@
 title: Accomplishments
 ---
 
-There aren't many. I'm an underachiever and having a legacy isn't important to me. However, I'm not above bragging a bit about what little I've managed to do so far.
+There aren't many. I'm an underachiever and having a legacy isn't important to me. 
+
+I don't buy into the idea of success or that humans have to achieve big things. What society considers to be big accomplishments are often meaningless in the long run. A lot less meaningful than living a happy life.
+
+However, I'm not above bragging a bit about what little I've managed to do so far in life that has made me feel happy.
 
 - I once [biked](/bicycling) about 400 miles from Dobbs Ferry, New York to Montreal, Canada. It took a few weeks, and involved camping and carrying associated paraphernelia on my bike. 
 
