@@ -11,10 +11,12 @@ I'm [Aron](/name).
 
 Seemingly the first one in [NYC](/nyc) who wanted to make a [website](/website).
 
-I like [music](/music) a lot.
+I enjoy some kinds of [music](/music), some kinds of [video games](/games), and some [other media](/media).
 
 I ride my [bicycle](/bicycling) everywhere.
 
-I haven't [accomplished](/accomplishments) much but there's still a page for it.
+I haven't [accomplished](/accomplishments) much but there's still a page for it. My life is pretty [simple](/minimalism).
 
-I don't place much emphasis on [identity](/identity) but you can still read about it if you're interested for whatever reason.
+I'm not too focused on [identity](/identity) in daily life, but you can still read about it if you're interested for whatever reason.
+
+If you want to find me elsewhere, [you probably won't](/elsewhere).
