@@ -9,16 +9,14 @@ title: Home
 
 I'm [Aron](/name).
 
-Seemingly the first one in [NYC](/nyc) who wanted to make a [website](/website).
+Seemingly the first one in [NYC](/nyc) who wanted to make a [personal website](/website).
 
-I enjoy some kinds of [music](/music), some kinds of [video games](/games), and some [other media](/media).
+Pasttimes include [music](/music), [video games](/games), and watching [Youtube](/youtube). I also have a page about every other form of [media](/media).
 
-I ride my [bicycle](/bicycling) everywhere.
+I also ride my [bicycle](/bicycling) everywhere.
 
-I haven't [accomplished](/accomplishments) much but there's still a page for it. My life is pretty [simple](/minimalism).
+I'm an underachiever and my life is [simple](/minimalism). I've still done a few [cool things](/accomplishments) in my life.
 
-I'm not too focused on [identity](/identity) in daily life, but you can still read about it if you're interested for whatever reason.
+If you're interested in who I am for whatever reason, I have a page with limited personal details about my [identity](/identity).
 
-If you want to find me elsewhere, [you probably won't](/elsewhere).
-
-Thanks for visiting!
+Every page on this website is has a link to it on this homepage. It ain't much, but it's mine.

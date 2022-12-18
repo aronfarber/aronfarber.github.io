@@ -12,6 +12,4 @@ It's a sub-optimal place for me in many ways. I'm sensitive to smell and loud no
 
 The reason why I'm staying here is that I [refuse to drive cars](/bicycling), and New York City lets me keep that up. This way, I don't have to go through the trouble of expatriating to the Netherlands.
 
-Big dense cities are also more efficient and less extractive on nature, so on principle I think it's a good place to live.
-
-So yeah, it's a great city and I'm fortunate to be able to live here.
+Big dense cities are also more efficient and less extractive on nature than suburbs, so on principle I think they're a good place to live.
