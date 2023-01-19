@@ -25,4 +25,4 @@ tabWidth = 4
 [params]
 custom_css = ["css/theme-override.css"]
 description = "Aron's site"
-footer = "This website is [open-source](https://github.com/thegithubrespectorhasloggedon/thegithubrespectorhasloggedon.github.io) | [Song recommendation](https://soundcloud.com/sebastianvydra/nothingtofear)"
+footer = "[About this website](https://aron.nyc/website/) | Thanks for visiting!"
