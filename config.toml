@@ -22,7 +22,20 @@ noClasses = true
 style = "monokai"
 tabWidth = 4
 
+[permalinks]
+personal = "/personal/:slug/"
+professional = "/professional/:slug/"
+
+[[menu.main]]
+name = "Personal"
+url = "/personal/"
+weight = 1
+[[menu.main]]
+name = "Professional"
+url = "/professional/"
+weight = 2
+
 [params]
 custom_css = ["css/theme-override.css"]
-description = "Aron's site"
-footer = "[About this website](https://aron.nyc/website/) | Thanks for visiting!"
+description = "Aron"
+footer = "[Web ethos](/web-ethos/) | [Song recommendation](https://sebastianvydra.bandcamp.com/track/nothing-to-fear)"
