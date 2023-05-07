@@ -6,4 +6,4 @@ I'm an Environmental Engineering student at [Northeastern](https://en.wikipedia.
 
 At the moment, I'm studying for the FE exam and hope to have my EIT certification before I graduate.
 
-I'm *not* looking for work at the moment, but if/when I do I will update this page with a resume, contact information, and some sample projects.
+I'm *not* looking for work at the moment, but if/when I am, I will update this page with a resume, contact information, and some sample projects.
