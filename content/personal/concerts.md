@@ -7,9 +7,7 @@ The following is an archive and retrospective of my concertgoing experiences, in
 <b>Chime - Aetherborne Tour</b></br>
 May 6th, 2023</br>
 Brooklyn Meadows, NYC</br>
-Openers: Skybreak, D3vinity, She, Swole Sauce, ILL EYEZ</br>
-
-
+Openers: Skybreak, She, Swole Sauce</br>
 
 <hr class="solid">
 
@@ -18,17 +16,11 @@ February 24, 2023</br>
 Royale, Boston</br>
 Openers: Ace Aura, some local DJs</br>
 
-
-
-Ace Aura's set was fucking awesome. Before the 
-
 <hr class="solid">
 
 <b>acloudyskye, Dobi, eliderp, luminism, Skybreak, & torr - FORMFEST</b></br>
 June 25, 2022</br>
 Mercury Lounge, NYC</br>
-
-FORMFEST was one of the best days of my life.
 
 <hr class="solid">
 
