@@ -11,19 +11,34 @@ Openers: Skybreak, She, Swole Sauce</br>
 
 <hr class="solid">
 
-<b>Crankdat - Return of the Crank Tour</b></br>
+<b>[Crankdat](https://soundcloud.com/crankdatmusic) - Return of the Crank Tour</b></br>
 February 24, 2023</br>
 Royale, Boston</br>
-Openers: Ace Aura, some local DJs</br>
+Openers: [Ace Aura](https://soundcloud.com/aceaura), some local DJs</br>
+
+Ace Aura is one of the pioneers of Color Bass, a genre of electronic music that shattered the boundaries of what Dubstep can sound like. I mainly went to this show to see him, and wasn't disappointed. Hearing him play out many of his stronger live; [Tongues of Fire VIP], [Umbra](https://soundcloud.com/monstercat/ace-aura-umbra-voicians), [Speedrun](https://soundcloud.com/circusrecords/ace-aura-x-skybreak-speedrun), [Stay](https://soundcloud.com/monstercat/tynan-ace-aura-stay), [Rise](https://soundcloud.com/disciple/rise), among others; was blissful. Color Bass is just phenomenal to dance to. Since the songs are more complex, you can modulate your dancing depending on your familiarity with each song, whether it be hitting each resonator with finger taps or just mindlessly headbanging. He also played some of my absolute favorite Dubstep songs by other artists: [Waterfall](https://soundcloud.com/disciple/waterfall) by [Skybreak](https://soundcloud.com/skybreakofficial), [CORE [inside_out]](https://soundcloud.com/knoir/core_inside_out) by [Knoir](https://soundcloud.com/knoir), and [Automhate](https://soundcloud.com/automhate)'s absolutely iconic [Tonal Riddim](https://soundcloud.com/automhate/automhate-tonal-riddim). It was amazing to have an opportunity to pop off to those in a live setting.
+
+I have liked some Crankdat songs historically; [Dark Room](https://soundcloud.com/crankdatmusic/dark-room) and [Tell Me](https://soundcloud.com/crankdatmusic/tell-me) are both bangers still. He didn't play them or anything like them. Instead he relegated his set to his standard metallic Dubstep and House, neither of which were particularly enjoyable to me. My friend and I left about two-thirds of the way through his set, after all of the songs started to sound the same.
+
+Overall, it was a decent show. Essentially, my friend and I were clearly there for Ace Aura and knew a majority of the songs he played while the rest of the crowd was negative space, and during Crankdat's set the roles were reversed. It was still a positive experience overall, but we were both ready to leave without seeing Crankdat's full set.
 
 <hr class="solid">
 
-<b>acloudyskye, Dobi, eliderp, luminism, Skybreak, & torr - FORMFEST</b></br>
+<b>[acloudyskye](https://soundcloud.com/acloudyskye), [dobi](https://soundcloud.com/dobimusic), [eliderp](https://soundcloud.com/eliderp), [luminism](https://soundcloud.com/lmnsm), [Skybreak](https://soundcloud.com/skybreakofficial), & [torr](https://soundcloud.com/t0rr) - FORMFEST</b></br>
 June 25, 2022</br>
 Mercury Lounge, NYC</br>
 
-<hr class="solid">
+FORMFEST was much more than a stellar electronic music show; it was truly one of the best days of my life. This event facilitated an entire day meeting up with about 10 of my closest friends, many for the first time, and engaging in what can only be described as hijinks. We hung out, ate, walked, talked, listened to music. That day was perfect and I'm eternally grateful to FORM for hosting an event that brought so many people together. 
 
+The show itself is honestly secondary in my mind, but it was still phenomenal. This was the first time I experienced hearing underground music I truly loved in a live setting. Live electronic music is heavily gatekept to radio-friendly artists, and since I tend to like less popular music, it was fantastic to be able to dance to experimental, risky, creative music. That kind of thing is what I actually listen to at home.
+
+All of the sets were pretty good, but two sets in particular were borderline life-changing. eliderp, one of my favorite Dubstep producers, was surreal to watch live. Honestly, his set had a lot of random detritus that I didn't enjoy very much. But at least a few of us who were there remember the [Tempo](https://soundcloud.com/jkuch/tempo-feat-patches) B2B [Fly So High](https://soundcloud.com/halcyonlv/fly-so-high) transition as the absolute highlight of the night. He played most of his other classics from the time too: [Can't Explain](https://soundcloud.com/eliderp/cant-explain), [STRUKT](https://soundcloud.com/eliderp/eliderp-strukt), [FUSION](https://soundcloud.com/eliderp/eliderp-fusion), and [Pulsar](https://soundcloud.com/eliderp/eliderp-x-digital-reject-pulsar), all of which went unfathomably hard. The cherry on top would've been [Vexxed](https://soundcloud.com/cyclopsrecs/eliderp-x-joe-b-vexxed) but I really can't complain. Those 30 minutes were probably the hardest I've gone and the highest I've jumped during a live set ever.
+
+Skybreak's set was similarly fantastic. I've since seen him perform again and can confirm he has some of the best energy on stage I've seen from a DJ. In the days preceding FORMFEST, I had studied some [other mixes](https://soundcloud.com/skybreakofficial/skybreak-between-broken-tour-mix-2022) of his from early 2022 to get an idea of what he played, and it mostly worked. It was just unbelievable hearing songs like [Waterfall](https://soundcloud.com/skybreakofficial), [Whirlpool](https://soundcloud.com/disciple/whirlpool), [Another Heart](https://soundcloud.com/artbyform/skybreak-sharks-ace-aura), his [Behemoth flip](https://soundcloud.com/skybreakofficial/behemoth), his [Parachute remix](https://soundcloud.com/skybreakofficial/oliverse-parachute-skybreak-remix), and almost all of [Unity EP](https://soundcloud.com/skybreakofficial/sets/skybreak-unity-ep) live for the first time. He also played [Moonglow](https://soundcloud.com/disciple/moonglow) and [Soul Shards](https://soundcloud.com/disciple/soulshards) while they were still IDs, as well as a fire collab ID with [Sharks](https://soundcloud.com/sharkstunes) and [William Black](https://soundcloud.com/williamblack) that still hasn't dropped. 
+
+After both of these sets back to back I was in almost a state of shock. My mouth was agape and I was drenched in sweat. To this day it's the most emotional impact I've felt from live music. FORMFEST was just unreal in so many ways. I'm really hoping for a second one.
+
+<hr class="solid">
 
 <b>Anomalie - Galerie Tour</b></br>
 May 26, 2022</br>
@@ -32,7 +47,7 @@ Openers: Bad Snacks, Shrimpnose</br>
 
 Immediately after arriving home from the show in Cambridge on the 25th, I bought a ticket to go to see the next day's show in New York. Coincidentally, I was already going back home to New York on the 26th, but when booking Anomalie tickets I chose to go to the Boston show because I had friends going, and I didn't need to see it twice, or so I thought. This time I was alone, but surprisingly was able to socialize with some other fans.
 
-The show was exactly the same as the day prior, and almost as fantastic. It was interesting knowing in advance what came next, down to the encore. I still had an absolutely amazing time dancing along, especially because I had spend almost the entire train ride home rinsing his albums and felt even more familiar with the songs. See below for more general thoughts surrounding the first time I saw the show.
+The show was exactly the same as the day prior, and almost as fantastic. It was interesting knowing in advance what came next, down to the encore. I still had an absolutely amazing time dancing along, especially because I had spent almost the entire train ride that day rinsing his albums and felt even more familiar with the songs. See below for more general thoughts surrounding the first time I saw the show.
 
 <hr class="solid">
 
