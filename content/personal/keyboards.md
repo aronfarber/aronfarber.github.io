@@ -38,7 +38,7 @@ I used [KiCad](https://www.kicad.org/), a free and open-source electronics editi
 
 While soldering tested my patience and dexterity, and programming the microcontrollers was convoluted at times, the hardest part of switching keyboards was what essentially amounted to fully relearning how to type. I was retraining my fingers from the two-finger QWERTY technique I had gotten by with my whole life, to ten-finger touch typing on Colemak-DH on with a third of the keys available. This required a few months of daily practice.
 
-The ever-ubiquitous and oh-so-arbitrary [QWERTY](https://en.wikipedia.org/wiki/QWERTY) has existed in the same form since it's conception for use with 19th century typewriters. [Colemak](https://en.wikipedia.org/wiki/Colemak) is a modern and well-researched alternative which arranges the letters based on analysis of letter frequencies. This leads to the most common letters being placed on the home row, resulting in even fewer repetitive finger motions.
+The ever-ubiquitous and oh-so-arbitrary [QWERTY](https://en.wikipedia.org/wiki/QWERTY) has existed in the same form since its conception as a layout for 19th century typewriters. [Colemak](https://en.wikipedia.org/wiki/Colemak) is a modern and well-researched alternative which arranges the letters based on analysis of letter frequencies. This leads to the most common letters being placed on the home row, resulting in even fewer repetitive finger motions.
 
 <figure id="colemak">
   <img src="/images/keyboards/colemak.jpg" alt="colemak">
