@@ -2,7 +2,7 @@
 title: Name
 ---
 
-The name Aron doesn't really mean anything. It's little more than an unusual spelling of Aaron.
+My name doesn't hold any particular significance. It's an unusual spelling of Aaron, and little more.
 
-According to my parents it's supposed to be pronounced /ærɪn/ (like the a in "ash") but I guess Aaron is pronounced like /ɛrɪn/
-(like "air-in") so I'm mostly called that. Language is fluid so I let it slide. Whenever people ask I tell them to pronounce it the way they normally would.
+According to my parents it's supposed to be pronounced /ærən/ (like the a in "ash") but I guess Aaron is generally pronounced /ɛərən/
+(like "air-in") so I'm mostly called that. [Language is fluid](https://en.wikipedia.org/wiki/Linguistic_description) so I let it slide. Whenever people ask, I tell them to pronounce it as they normally would.
