@@ -36,16 +36,16 @@ I used [KiCad](https://www.kicad.org/), a free and open-source electronics editi
 
 ## Layout
 
-While soldering tested my patience and dexterity, and programming the microcontrollers was convoluted at times, the hardest part of switching keyboards was what essentially amounted to fully relearning how to type. I was retraining my fingers from the two-finger QWERTY technique I had gotten by with my whole life, to ten-finger touch typing on Colemak-DH on with a third of the keys available. This required a few months of daily practice.
+While soldering tested my patience and dexterity, and programming the microcontrollers was convoluted at times, the hardest part of switching keyboards was what essentially amounted to fully relearning how to type. To use this keyboard, I had to retrain my fingers from the two-finger QWERTY technique I had scraped by with my whole life, to ten-finger touch typing on a new layout with a third of the keys available. This required a few months of daily practice.
 
-The ever-ubiquitous and oh-so-arbitrary [QWERTY](https://en.wikipedia.org/wiki/QWERTY) has existed in the same form since its conception as a layout for 19th century typewriters. [Colemak](https://en.wikipedia.org/wiki/Colemak) is a modern and well-researched alternative which arranges the letters based on analysis of letter frequencies. This leads to the most common letters being placed on the home row, resulting in even fewer repetitive finger motions.
+The ever-ubiquitous and oh-so-arbitrary [QWERTY](https://en.wikipedia.org/wiki/QWERTY) has existed in the same form since its conception as a layout for 19th century typewriters. [Colemak](https://en.wikipedia.org/wiki/Colemak) is a modern and well-researched alternative which arranges the letters based on analysis of letter frequencies. This leads to the most common letters being placed on the home row, resulting in fewer repetitive finger motions.
 
 <figure id="colemak">
   <img src="/images/keyboards/colemak.jpg" alt="colemak">
   <figcaption>The letters layer of my custom keyboard layout.</figcaption>
 </figure>
 
-I used [keybr.com](https://www.keybr.com/) to learn how to touch type. Starting in around November 2021, I practiced for 10-30 minutes a day, as well as using the keyboard consistently throughout the day for assignments. I made it a point to never look down at the keyboard while typing. I started at about 11 WPM, and by the end of the below screenshot (June 2022), I was averaging 62 WPM. 
+I used [keybr.com](https://www.keybr.com/) to learn how to touch type. Starting in November 2021, I practiced for 10-30 minutes a day, as well as using the keyboard consistently throughout the day for assignments. I made it a point to never look down at the keyboard while typing, but it didn't matter much since the keys have no legends or symbols on them. I started at about 11 WPM, and by the end of the below screenshot (June 2022), I was averaging 62 WPM. 
 
 <figure id="keybr">
   <img src="/images/keyboards/keybr.jpg">
