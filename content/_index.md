@@ -7,8 +7,8 @@ title: Home
 <img id="avatar" style="vertical-align: middle" src="/images/avatar.png"/>
 </p>
 
-I'm Aron.
+My name is Aron.
 
-Seemingly the first one in NYC who wanted a website.
+I'm an environmental engineer from New York City.
 
-Thanks for visiting!
+Thanks for visiting my site!

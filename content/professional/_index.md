@@ -2,8 +2,10 @@
 title: Professional
 ---
 
-I'm an Environmental Engineering student at [Northeastern](https://en.wikipedia.org/wiki/Northeastern_University). I graduate in May 2024. You may view my program requirements [here](https://catalog.northeastern.edu/undergraduate/engineering/civil-environmental/environmental-engineering-bsenve/#programrequirementstext) if you wish.
+In progress
 
-At the moment, I'm studying for the FE exam and hope to have my EIT certification before I graduate.
+<!--I'm an environmental engineer currently working in brownfield remediation. I enjoy working on infrastructure and contaminated sites. I have my EIT certification and am hoping to get my PE a few years down the road.
 
-I'm *not* looking for work at the moment, but if/when I am, I will update this page with a resume, contact information, and some sample projects.
+I got my BS in Environmental Engineering from [Northeastern](https://en.wikipedia.org/wiki/Northeastern_University). My education was pretty well-rounded, and I have a solid foundation in water treatment, environmental chemistry, microbiology, and air quality modeling.
+
+I'm *not* looking for work at the moment, but if/when I am I will update this page with a resume, contact information, and some sample work.-->

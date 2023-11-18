@@ -2,10 +2,10 @@
 title: Web Ethos
 ---
 
-This website is my centralised online presence. I try not to exist anywhere else. Realistically, I have no need for a public personal website. I don't have a company, brand, or social media presence to promote. I'm just a guy.
+Realistically, I have no need for a public personal website. I don't have a company, brand, or social media presence to promote. I essentially just stumbled upon the world of static personal websites and wanted to give it a go. Ultimately I like to keep a low profile, and not share too much. This website is my only presence online.
 
-However, I do like doing this "kind of thing" in my spare time. I don't work in tech or develop websites for my job or anything like that. Just a random pursuit I did online because I wanted to. This webpage is kind of pointless but I hope that tells you something about me.
+I also don't work in tech or web development, and don't stand to gain anything personally from having a nice website. I've seen many personal websites of computer scientists, designers, architects, and even some mechanical engineers, but never a civil or environmental engineer.
 
-In terms of web philosophy though, there are a few principles I've tried to implement to make the internet an ever-so-slightly friendlier place. For one, it's simple, which is true of all of my own favorite websites. It's important to me that this website is friendly to all users. I'm conscious of data caps and I don't load any external web fonts or uncompressed images. This site doesn't employ any advertising or analytics. It also works without JavaScript.
+Since starting this site, I've become a proponent of the simple web. Most web traffic is handled by large platforms that have unfortunately littered the internet with ads, trackers, flashy CSS and unnecessary Javascript. I love fast, rudimentary personal websites that people maintain just for fun or to share their passions with the world.  
 
-Anyway, I hope you like the site.
+This site doesn't employ any tracking, advertising or analytics. It also works without JavaScript. I'm conscious of data caps and I don't load any external web fonts or uncompressed images. I use Github Pages for hosting.
