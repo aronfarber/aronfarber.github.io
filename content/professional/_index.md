@@ -2,10 +2,10 @@
 title: Professional
 ---
 
-In progress
+I'm currently a staff engineer working in land development and brownfield remediation. I have experience in environmental investigations, field sampling, air monitoring, construction oversight, and regulatory reporting. I have my EIT certification, and am hoping to get my PE upon obtaining the requisite experience.
 
-<!--I'm an environmental engineer currently working in brownfield remediation. I enjoy working on infrastructure and contaminated sites. I have my EIT certification and am hoping to get my PE a few years down the road.
+I graduated with a BS in Environmental Engineering from [Northeastern](https://en.wikipedia.org/wiki/Northeastern_University) in 2024. My education was well-rounded, and I have an academic foundation in water treatment systems, environmental chemistry, energy, microbiology, and air quality modeling.
 
-I got my BS in Environmental Engineering from [Northeastern](https://en.wikipedia.org/wiki/Northeastern_University). My education was pretty well-rounded, and I have a solid foundation in water treatment, environmental chemistry, microbiology, and air quality modeling.
+My engineering-related interests include contaminated sites, infrastructure design, and building science. 
 
-I'm *not* looking for work at the moment, but if/when I am I will update this page with a resume, contact information, and some sample work.-->
+I'm *not* looking for other work at the moment.
